@@ -17,7 +17,7 @@ html_last_updated_fmt = r'%Y年%m月%d日'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ["sphinx.ext.githubpages"]
 
 templates_path = ['_templates']
 exclude_patterns = ['Thumbs.db']
@@ -30,3 +30,17 @@ language = 'ja'
 html_title = "セキュリティのアレまとめ"
 html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
+html_favicon = "_static/favicon.ico"
+html_logo = "_static/アイコン.png"
+
+# ページヘッダーの各種アイコン設定
+html_theme_options = {
+    "logo": {
+        "text": project,
+    },
+    "github_url": "https://github.com/BerandaMegane/Security-no-ARE-words",
+    "twitter_url": "https://twitter.com/BerandaMegane",
+    "external_links": [
+        {"name": "お問合せ", "url": "https://forms.gle/7adWctvUpwrNvZxD6"},
+    ],
+}

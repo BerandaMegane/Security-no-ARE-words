@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="800"
+   viewBox="0 0 211.66666 211.66667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="アイコン.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.74564394"
+     inkscape:cx="339.9746"
+     inkscape:cy="348.6919"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="120.70104"
+       y="206.53289"
+       width="785.85003"
+       height="428.6984"
+       id="rect398" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#343747;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke:none;fill-opacity:1"
+       id="path234"
+       cx="105.83334"
+       cy="105.83334"
+       r="105.83334" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.25394377,0.07427582,-0.07427582,0.25394377,6.7162002,-48.307628)"
+       id="text396"
+       style="font-size:341.333px;font-family:HGMaruGothicMPRO;-inkscape-font-specification:HGMaruGothicMPRO;text-align:center;white-space:pre;shape-inside:url(#rect398);fill:#ff92ff;fill-opacity:1;stroke:#ffffff;stroke-width:30;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+         x="200.24826"
+         y="548.86621"
+         id="tspan2256"><tspan
+           style="font-weight:bold;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI Bold';stroke-linejoin:round"
+           id="tspan2252">A</tspan><tspan
+           style="font-size:266.667px"
+           id="tspan2254">RE</tspan></tspan></text>
+  </g>
+</svg>

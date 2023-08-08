@@ -1,5 +1,7 @@
 # Minimal makefile for Sphinx documentation
 #
+# この Makefile は使用していない。自動生成のまま編集していない。
+exit 0
 
 # You can set these variables from the command line, and also
 # from the environment for the first two.
