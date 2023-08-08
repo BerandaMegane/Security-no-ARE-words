@@ -6,9 +6,8 @@ About
 | このサイトは :doc:`words/セキュリティのアレ` を見て自由気ままに書き出したメモです。
 | 用語のチョイスは適当で、語釈や内容についての妥当性や正確性については保証できません。あらかじめご容赦ください。
 
-| このサイトを作成するにあたって、 `ゆる言語学ラジオ 用語集 <https://yurugengo.mtakagishi.com/index.html>`_ を参考にしました。
-| ゆる言語学ラジオ 用語集は、 `こちらの GitHub で MIT ライセンスにて公開 <https://github.com/mtakagishi/yurugengo>`_ されています。
-| Copyright (c) 2021 mtaka
+| このサイトを作成するにあたって、mtaka 氏による `ゆる言語学ラジオ 用語集 <https://yurugengo.mtakagishi.com/index.html>`_ を参考にしました。  
+| ゆる言語学ラジオ 用語集は、 `MIT ライセンスにて公開 <https://github.com/mtakagishi/yurugengo>`_ されています。  
 
 免責事項
 ------------------
