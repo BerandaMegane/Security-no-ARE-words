@@ -28,13 +28,13 @@ if errorlevel 9009 (
 if "%1" == "" goto help
 
 if "%1" == "html" (
-	%SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
+	%SPHINXBUILD% -b html %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
 	goto end
 )
 
 if "%1" == "preview" (
 	start http://localhost:8000
-	sphinx-autobuild -b html source %BUILDDIR%/html
+	sphinx-autobuild -b html source %BUILDDIR%
 	goto end
 )
 
