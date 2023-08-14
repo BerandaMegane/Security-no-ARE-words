@@ -12,7 +12,7 @@ author = 'BerandaMegane'
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-html_last_updated_fmt = r'%Y年%m月%d日'
+html_last_updated_fmt = "%Y-%m-%dT%M:%S%z"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -44,3 +44,8 @@ html_theme_options = {
         {"name": "お問合せ", "url": "https://forms.gle/7adWctvUpwrNvZxD6"},
     ],
 }
+
+# 出力先ディレクトリにコピーする追加ファイル
+html_extra_path = [
+    "CNAME"
+]
