@@ -25,6 +25,7 @@
 
   genindex
   words/index
+  podcasts/podcast_list
 
 .. toctree::
   :maxdepth: 2
