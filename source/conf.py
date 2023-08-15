@@ -12,7 +12,7 @@ author = 'BerandaMegane'
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-html_last_updated_fmt = "%Y-%m-%dT%M:%S%z"
+html_last_updated_fmt = "%Y-%m-%dT%H:%M%z"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -33,7 +33,7 @@ html_static_path = ['_static']
 html_favicon = "_static/favicon.ico"
 html_logo = "_static/アイコン.png"
 
-# ページヘッダーの各種アイコン設定
+# ページヘッダー・フッター設定
 html_theme_options = {
     "logo": {
         "text": project,
@@ -43,7 +43,9 @@ html_theme_options = {
     "external_links": [
         {"name": "お問合せ", "url": "https://forms.gle/7adWctvUpwrNvZxD6"},
     ],
+  "footer_start": ["copyright", "last-updated", "sphinx-version"],
 }
+
 
 # 出力先ディレクトリにコピーする追加ファイル
 html_extra_path = [
