@@ -46,7 +46,6 @@ html_theme_options = {
   "footer_start": ["copyright", "last-updated", "sphinx-version"],
 }
 
-
 # 出力先ディレクトリにコピーする追加ファイル
 html_extra_path = [
     "CNAME"

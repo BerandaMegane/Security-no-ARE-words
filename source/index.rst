@@ -24,11 +24,10 @@
   :glob:
 
   genindex
-  words/index
-  podcasts/index
 
 .. toctree::
   :maxdepth: 2
   :glob:
 
+  podcasts/index
   about

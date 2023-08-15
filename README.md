@@ -43,3 +43,7 @@ http://localhost:8000 にアクセスするとドキュメントを閲覧でき�
 ```
 .\make.bat preview
 ```
+
+### 放送回一覧リストの更新
+放送回一覧ページ（podcast_list.rst）は、generate_podcast_list.py によって生成している。  
+CSVファイル /_static/セキュリティのアレ_放送回リスト.csv をもとに、テンプレートファイル /podcasts/podcast_list.rst.template に表を挿入している。
