@@ -17,7 +17,10 @@ html_last_updated_fmt = "%Y-%m-%dT%H:%M%z"
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["sphinx.ext.githubpages"]
+extensions = [
+    "sphinx.ext.githubpages",
+    "sphinx_sitemap"
+]
 
 templates_path = ['_templates']
 exclude_patterns = ['Thumbs.db']
@@ -27,6 +30,7 @@ language = 'ja'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
+html_baseurl = "https://are.bocchi-megane.dev/"
 html_title = "セキュリティのアレまとめ"
 html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
