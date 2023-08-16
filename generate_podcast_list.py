@@ -13,35 +13,35 @@ out_rest_path = "./source/podcasts/podcast_list.rst"
 
 
 def write_file(reader, temp_reader, writer):
-    is_ignore = False
 
-    for temp_line in temp_reader:    
-        if "list-table" in temp_line and not is_ignore:
-            writer.write(temp_line)
-            
-            # テーブル挿入位置を見つけた場合は、空白行まで飛ばす
-            while (temp_line := temp_reader.readline()).strip() != "":
-                writer.write(temp_line)
+    # テーブル挿入位置 list-table ディレクティブを探す
+    while "list-table" not in (temp_line:=temp_reader.readline()) :
+        writer.write(temp_line)
+    
+    writer.write(temp_line)  # list-table ディレクティブ
+    
+    # テーブル挿入位置を見つけた場合は、空白行まで飛ばす
+    while (temp_line:=temp_reader.readline()).strip() != "":
+        writer.write(temp_line)
 
-            # 前後に空白行と list-table 形式の表を挿入する          
-            writer.write("\n")
-            writer.write("   * - ID\n")
-            writer.write("     - タイトル\n")
-            writer.write("     - 公開日\n")
-            write_table(reader, writer)
-            writer.write("\n")
+    # 前後に空白行と list-table 形式の表を挿入する          
+    writer.write("\n")
+    writer.write("   * - ID\n")
+    writer.write("     - タイトル\n")
+    writer.write("     - 公開日\n")
+    write_table(reader, writer)
+    writer.write("\n")
 
-            is_ignore = True
-        else:
-            # 通常部分はそのまま書き込む
-            writer.write(temp_line)
+    # 通常部分はそのまま書き込む
+    for temp_line in temp_reader:
+        writer.write(temp_line)
 
 def write_table(reader, writer):
     csv_reader = csv.DictReader(reader)
     for row in csv_reader:
         writer.write("   * - %s\n"         % (row["ID"]))
         writer.write("     - `%s <%s>`_\n" % (row["タイトル"], row["URL"]))
-        writer.write("     - %s\n"       % (row["公開日"]))
+        writer.write("     - %s\n"         % (row["公開日"]))
 
 def main():
     # CSVファイル
