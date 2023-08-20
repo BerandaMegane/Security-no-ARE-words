@@ -32,16 +32,26 @@ def write_file(reader, temp_reader, writer):
     write_table(reader, writer)
     writer.write("\n")
 
+    # URLの参照
+    write_url_ref(reader, writer)
+
     # 通常部分はそのまま書き込む
     for temp_line in temp_reader:
         writer.write(temp_line)
-
+    
 def write_table(reader, writer):
+    reader.seek(0)
     csv_reader = csv.DictReader(reader)
     for row in csv_reader:
-        writer.write("   * - %s\n"         % (row["ID"]))
+        writer.write("   * - %s\n"    % (row["ID"]))
         writer.write("     - `%s <%s>`_\n" % (row["タイトル"], row["URL"]))
-        writer.write("     - %s\n"         % (row["公開日"]))
+        writer.write("     - %s\n"    % (row["公開日"]))
+
+def write_url_ref(reader, writer):
+    reader.seek(0)
+    csv_reader = csv.DictReader(reader)
+    for row in csv_reader:
+        writer.write(".. _%s: %s\n" % (row["タイトル"], row["URL"]))
 
 def main():
     # CSVファイル

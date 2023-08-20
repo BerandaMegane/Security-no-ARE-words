@@ -3,11 +3,10 @@ About
 
 サイトについて
 ----------------
-| このサイトは :doc:`words/セキュリティのアレ` を見て自由気ままに書き出したメモです。
+| このサイトは :doc:`/words/セキュリティのアレ` を見て自由気ままに書き出したメモです。
 | 用語のチョイスは適当で、語釈や内容についての妥当性や正確性については保証できません。あらかじめご容赦ください。
 
-| このサイトを作成するにあたって、mtaka 氏による `ゆる言語学ラジオ 用語集 <https://yurugengo.mtakagishi.com/index.html>`_ を参考にしました。  
-| ゆる言語学ラジオ 用語集は、 `MIT ライセンスにて公開 <https://github.com/mtakagishi/yurugengo>`_ されています。  
+| このサイトを作成するにあたって、 `mtaka氏 <https://twitter.com/mtakagishi>`_ によって `MITライセンスで公開 <https://github.com/mtakagishi/yurugengo>`_ されている、 `ゆる言語学ラジオ用語集 <https://yurugengo.mtakagishi.com/index.html>`_ を参考にさせていただきました。ありがとうございます。
 
 免責事項
 ------------------
