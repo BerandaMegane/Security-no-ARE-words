@@ -7,7 +7,7 @@ Seizure banner
   シージャーバナー : し
 
 * FBI などの法執行機関が差し押さえた Web サイトに表示する画面のこと（参考ツイートより引用）
-* 次の画像は、2023年に差し押さえられた `breached.vc <http://breached.vc>`_ に表示されたもの
+* 次の画像は、2022年に差し押さえられた `breached.vc <http://breached.vc>`_ に表示されたもの
 
   * 連携した法執行機関のロゴが表示されている
   * 画像引用 `http://breached.vc/banner.jpg <http://breached.vc/banner.jpg>`_ （2023年8月22日取得）
