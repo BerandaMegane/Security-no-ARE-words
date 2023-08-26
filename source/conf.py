@@ -27,10 +27,13 @@ exclude_patterns = ['Thumbs.db']
 
 language = 'ja'
 
+# sphinx_sitemap向け設定
+html_baseurl = "https://are.bocchi-megane.dev/"
+sitemap_url_scheme = "{link}"
+
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_baseurl = "https://are.bocchi-megane.dev/"
 html_title = "セキュリティのアレまとめ"
 html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']

@@ -28,8 +28,12 @@ if errorlevel 9009 (
 if "%1" == "" goto help
 
 if "%1" == "html" (
-rem	rmdir /s /q %BUILDDIR%
 	%SPHINXBUILD% -b html %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
+	goto end
+)
+
+if "%1" == "clean" (
+	rmdir /s /q %BUILDDIR%
 	goto end
 )
 
