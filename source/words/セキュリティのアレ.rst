@@ -12,7 +12,6 @@
 * セキュリティインシデントや攻撃手法の最新情報、セキュリティ関連の時事情報をわかりやすく提供している 
 * これまでの歩みは :doc:`/podcasts/history` にて紹介しています
 
-
 現在の出演者
 --------------
 
@@ -28,21 +27,32 @@
   * セキュリティリサーチャー
   * 関西弁を話していればこの人
   * 所属は、SBテクノロジー株式会社
-  * `Twitter @ntsuji <https://twitter.com/ntsuji>`_
+  * 関連リンク
+
+    * `Twitter - @ntsuji <https://twitter.com/ntsuji>`_
+    * `(n)inja csirt <https://csirt.ninja/>`_
 
 * 根岸 征史（ねぎし まさふみ）
 
   * セキュリティリサーチャー
   * 一番声が低ければこの人
   * 所属は、株式会社インターネットイニシアティブ
-  * `Twitter @MasafumiNegishi <https://twitter.com/MasafumiNegishi>`_
+  * 関連リンク
+
+    * `Twitter - @MasafumiNegishi <https://twitter.com/MasafumiNegishi>`_
+    * `セキュリティは楽しいかね？ Part 2 <https://negi.hatenablog.com/>`_ 
+    * `セキュリティは楽しいかね？ Part 1 <https://ukky3.hatenablog.com/>`_
 
 * piyokango（ぴよかんご）
 
   * セキュリティリサーチャー
   * 最後に「バイバーイ」する人
   * 他の2人からは "かんごさん" と呼ばれている
-  * `Twitter @piyokango <https://twitter.com/piyokango>`_
+  * セキュリティインコ
+  * 関連リンク
+
+    * `Twitter - @piyokango <https://twitter.com/piyokango>`_
+    * `piyolog <https://piyolog.hatenadiary.jp/>`_
 
 過去の出演者・ゲスト
 -----------------------
@@ -71,10 +81,40 @@
   * 所属は、株式会社セキュアスカイ・テクノロジー
   * `Twitter @hasegawayosuke <https://twitter.com/hasegawayosuke>`_
 
-公式サイト
+コーナー
 ----------
+
+.. rubric:: 冒頭の雑談
+
+* ポッドキャストの冒頭は、出演者の自然な雑談から始まる。
+* 当初は「:doc:`始まってます`」というキーワードから収録が始まっていることを辻氏が宣言していたが、最近の放送回にはない。
+
+.. rubric:: お便りのコーナー
+
+* `Twitter#セキュリティのアレ`_ に寄せられるリスナーの感想・質問などを読み上げるコーナー。
+* 詳しくは :doc:`お便りのコーナー` にて紹介しています。
+
+.. rubric:: セキュリティの話題紹介
+
+* セキュリティのアレの本題。
+* 出演者が持ち寄るセキュリティの話題の紹介。
+* 辻氏はランサムウェア、根岸氏はDDoS関連の話題を紹介することが定例。
+
+.. rubric:: おすすめのアレ
+
+* ポッドキャストの最後に紹介される、辻氏のおすすめする「モノ」。
+* 食べ物だったり、サービスだったり、さまざまなモノが紹介される。
+* 詳しくは :doc:`おすすめのアレ` にて紹介しています。
+
+公式サイト・リンク
+--------------------
 * `tsujileaks - 公式サイト「セキュリティのアレ」 <https://www.tsujileaks.com/>`_
 * `@IT - 連載トップ「セキュリティのアレ」 <https://atmarkit.itmedia.co.jp/ait/subtop/features/ait/are.html>`_
+* `セキュリティのアレ 001 - LINE スタンプ | LINE STORE <https://store.line.me/stickershop/product/22148222/ja>`_
+
+関連サイト・リンク
+-------------------
+* `Twitter - アレティ <https://twitter.com/aren0_e>`_ アイキャッチを描いている人
 
 出演者・ゲスト著書
 --------------------------
@@ -82,3 +122,6 @@
 * `あなたがセキュリティで困っている理由 <https://bookplus.nikkei.com/atcl/catalog/19/274070/>`_ 辻伸弘 (著), 2019
 * `あなたの知らないセキュリティの非常識 <https://bookplus.nikkei.com/atcl/catalog/17/264340/>`_ 辻伸弘 (著), 2017
 * `あなたのセキュリティ対応間違っています <https://bookplus.nikkei.com/atcl/catalog/16/257130/>`_ 辻伸弘 (著), 2016
+
+
+.. _Twitter#セキュリティのアレ: https://twitter.com/search?q=%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&src=typed_query&f=live
