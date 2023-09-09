@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'セキュリティのアレまとめ'
-copyright = '2023, BerandaMegane'
-author = 'BerandaMegane'
+project = "セキュリティのアレ用語集"
+copyright = "2023, BerandaMegane"
+author = "BerandaMegane"
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
@@ -19,7 +19,8 @@ html_last_updated_fmt = "%Y-%m-%dT%H:%M%z"
 
 extensions = [
     "sphinx.ext.githubpages",
-    "sphinx_sitemap"
+    "sphinx_sitemap",
+    "sphinxext.opengraph",
 ]
 
 templates_path = ['_templates']
@@ -27,18 +28,22 @@ exclude_patterns = ['Thumbs.db']
 
 language = 'ja'
 
-# sphinx_sitemap向け設定
+# sphinx_sitemap 向け設定
 html_baseurl = "https://are.bocchi-megane.dev/"
 sitemap_url_scheme = "{link}"
+
+# sphinxext.opengraph 向け設定
+ogp_site_url = html_baseurl
+ogp_image = "http://are.bocchi-megane.dev/ogp_image.png"
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_title = "セキュリティのアレまとめ"
+html_title = "セキュリティのアレ用語集"
 html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
 html_favicon = "_static/favicon.ico"
-html_logo = "_static/アイコン.png"
+html_logo = "_static/html_logo.png"
 
 # ページヘッダー・フッター設定
 html_theme_options = {

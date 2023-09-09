@@ -3,13 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-セキュリティのアレまとめ
+セキュリティのアレ用語集
 =========================================
 .. rubric:: このサイトはなに？
 
 | 情報セキュリティ系ポッドキャスト「セキュリティのアレ」（略称 "アレ"）を見て自由気ままに書き出したメモです。
 | ポッドキャストをより楽しむために作ったものですが、用語のチョイスは適当で、語釈や内容についての妥当性や正確性については保証できません。あらかじめご容赦ください。
-| お問合せ・ご意見・ご要望は `「セキュリティのアレ」まとめ お問合せフォーム <https://forms.gle/7adWctvUpwrNvZxD6>`_ へお願いします。
+| お問合せ・ご意見・ご要望は `「セキュリティのアレ用語集」 お問合せフォーム <https://forms.gle/7adWctvUpwrNvZxD6>`_ へお願いします。
 
 .. rubric:: 目次
 
