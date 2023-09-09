@@ -29,8 +29,8 @@
   * 所属は、SBテクノロジー株式会社
   * 関連リンク
 
-    * `Twitter - @ntsuji <https://twitter.com/ntsuji>`_
-    * `(n)inja csirt <https://csirt.ninja/>`_
+    * Twitter - `@ntsuji <https://twitter.com/ntsuji>`_
+    * blog - `(n)inja csirt <https://csirt.ninja/>`_
 
 * 根岸 征史（ねぎし まさふみ）
 
@@ -39,26 +39,36 @@
   * 所属は、株式会社インターネットイニシアティブ
   * 関連リンク
 
-    * `Twitter - @MasafumiNegishi <https://twitter.com/MasafumiNegishi>`_
-    * `セキュリティは楽しいかね？ Part 2 <https://negi.hatenablog.com/>`_ 
-    * `セキュリティは楽しいかね？ Part 1 <https://ukky3.hatenablog.com/>`_
+    * Twitter - ` @MasafumiNegishi <https://twitter.com/MasafumiNegishi>`_
+    * blog - `セキュリティは楽しいかね？ Part 2 <https://negi.hatenablog.com/>`_ 
+    * blog - `セキュリティは楽しいかね？ Part 1 <https://ukky3.hatenablog.com/>`_
 
 * piyokango（ぴよかんご）
 
-  * セキュリティリサーチャー
-  * 最後に「バイバーイ」する人
+  * セキュリティリサーチャー、セキュリティインコ
   * 他の2人からは "かんごさん" と呼ばれている
-  * セキュリティインコ
+  * 最後に「バイバーイ」する人
+  * インコを飼っている
   * 関連リンク
 
-    * `Twitter - @piyokango <https://twitter.com/piyokango>`_
-    * `piyolog <https://piyolog.hatenadiary.jp/>`_
+    * Twitter - `@piyokango <https://twitter.com/piyokango>`_
+    * blog - `piyolog <https://piyolog.hatenadiary.jp/>`_
 
 過去の出演者・ゲスト
 -----------------------
 
 | 過去の出演者およびゲストを紹介します。
 | まだまとめきれていませんし、自己紹介がないため特定が難しい人物もおられます。
+
+* 宮田 健（みやた たけし）
+
+  * セキュリティ分野の動向に詳しいフリーライター
+  * ポッドキャストシーズン1「セキュリティのポッドキャスト（仮）」を辻氏と始めた
+  * 関連リンク
+
+    * 運営サイト - `About dpost.jp <https://dpost.jp/about/>`_
+    * Twitter - `@mtakeshi <https://twitter.com/mtakeshi>`_
+    * ITmedia 執筆記事 - `宮田健 - ITmedia 著者別インデックス <https://www.itmedia.co.jp/author/165031/>`_
 
 * 井上 大介（いのうえ だいすけ）
 
@@ -74,12 +84,12 @@
   * 所属は、独立行政法人情報通信研究機構
   * 関連リンク
 
-    * https://cynex.nict.go.jp/people/daisuke-inoue.html
+    * NICT メンバー紹介 - `井上 大介 | メンバー | サイバーセキュリティネクサス | NICT <https://cynex.nict.go.jp/people/daisuke-inoue.html>`_
 
 * 長谷川 陽介（はせがわ ようすけ）
 
   * 所属は、株式会社セキュアスカイ・テクノロジー
-  * `Twitter @hasegawayosuke <https://twitter.com/hasegawayosuke>`_
+  * Twitter - `@hasegawayosuke <https://twitter.com/hasegawayosuke>`_
 
 コーナー
 ----------
@@ -114,15 +124,16 @@
 
 関連サイト・リンク
 -------------------
-* `Twitter - アレティ <https://twitter.com/aren0_e>`_ アイキャッチを描いている人
+* アイキャッチを描いている人 `Twitter - アレティ <https://twitter.com/aren0_e>`_ 
 * Twitter ハッシュタグ `#セキュリティのアレ`_
 
 出演者・ゲスト著書
 --------------------------
 
-* `あなたがセキュリティで困っている理由 <https://bookplus.nikkei.com/atcl/catalog/19/274070/>`_ 辻伸弘 (著), 2019
-* `あなたの知らないセキュリティの非常識 <https://bookplus.nikkei.com/atcl/catalog/17/264340/>`_ 辻伸弘 (著), 2017
-* `あなたのセキュリティ対応間違っています <https://bookplus.nikkei.com/atcl/catalog/16/257130/>`_ 辻伸弘 (著), 2016
-
+* `あなたがセキュリティで困っている理由 <https://bookplus.nikkei.com/atcl/catalog/19/274070/>`_ 辻伸弘, 2019
+* `あなたの知らないセキュリティの非常識 <https://bookplus.nikkei.com/atcl/catalog/17/264340/>`_ 辻伸弘, 2017
+* `あなたのセキュリティ対応間違っています <https://bookplus.nikkei.com/atcl/catalog/16/257130/>`_ 辻伸弘, 2016
+* `Q＆Aで考えるセキュリティ入門　「木曜日のフルット」と学ぼう！ <https://books.mdn.co.jp/books/3217203018/>`_ 宮田健, 2019
+* `デジタルの作法 <https://www.kadokawa.co.jp/product/301501001925/>`_ 宮田健, 2015
 
 .. _#セキュリティのアレ: https://twitter.com/search?q=%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&src=typed_query&f=live
