@@ -11,6 +11,7 @@
 * 現在は、辻伸弘氏と根岸征史氏、piyokango氏の3名が情報セキュリティについてユーモアを交えつつ語る :doc:`国公認？ </words/サイバーセキュリティに関する総務大臣奨励賞>` のポッドキャスト
 * セキュリティインシデントや攻撃手法の最新情報、セキュリティ関連の時事情報をわかりやすく提供している 
 * これまでの歩みは :doc:`/podcasts/history` にて紹介しています
+* 2022年ごろから各回のイラスト（アイキャッチ）が用意されており、 `アレティ氏 <https://twitter.com/aren0_e>`_ が描いているとのこと
 
 現在の出演者
 --------------
@@ -22,37 +23,45 @@
 | ポッドキャストでは顔が見えないため、最初は3名のうち誰が話しているのか分かりづらいかもしれません。
 | そういった場合は、 `YouTube版セキュリティのアレ <https://atmarkit.itmedia.co.jp/ait/subtop/features/ait/are.html>`_ からの視聴をおすすめします。
 
-* 辻 伸弘（つじ のぶひろ）
+.. rubric:: 辻 伸弘 （つじ のぶひろ）
   
-  * セキュリティリサーチャー
-  * 関西弁を話していればこの人
-  * 所属は、SBテクノロジー株式会社
-  * 関連リンク
+* セキュリティリサーチャー
+* 関西弁を話していればこの人
+* 所属は、SBテクノロジー株式会社
+* Twitter - `@ntsuji <https://twitter.com/ntsuji>`_
+* blog - `(n)inja csirt <https://csirt.ninja/>`_
 
-    * Twitter - `@ntsuji <https://twitter.com/ntsuji>`_
-    * blog - `(n)inja csirt <https://csirt.ninja/>`_
+.. raw:: html
 
-* 根岸 征史（ねぎし まさふみ）
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7m8dw92YEmA?si=9_LZJEOifSKALcTC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-  * セキュリティリサーチャー
-  * 一番声が低ければこの人
-  * 所属は、株式会社インターネットイニシアティブ
-  * 関連リンク
+.. rubric:: 根岸 征史 （ねぎし まさふみ）
 
-    * Twitter - ` @MasafumiNegishi <https://twitter.com/MasafumiNegishi>`_
-    * blog - `セキュリティは楽しいかね？ Part 2 <https://negi.hatenablog.com/>`_ 
-    * blog - `セキュリティは楽しいかね？ Part 1 <https://ukky3.hatenablog.com/>`_
+* セキュリティリサーチャー
+* 一番声が低ければこの人
+* 所属は、株式会社インターネットイニシアティブ
+* Twitter - `@MasafumiNegishi <https://twitter.com/MasafumiNegishi>`_
+* blog - `セキュリティは楽しいかね？ Part 2 <https://negi.hatenablog.com/>`_ 
+* blog - `セキュリティは楽しいかね？ Part 1 <https://ukky3.hatenablog.com/>`_
 
-* piyokango（ぴよかんご）
+.. raw:: html
 
-  * セキュリティリサーチャー、セキュリティインコ
-  * 他の2人からは "かんごさん" と呼ばれている
-  * 最後に「バイバーイ」する人
-  * インコを飼っている
-  * 関連リンク
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/w_Y3qqgjmPc?si=CHcsLo9KyAuYzNeD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-    * Twitter - `@piyokango <https://twitter.com/piyokango>`_
-    * blog - `piyolog <https://piyolog.hatenadiary.jp/>`_
+.. rubric:: piyokango （ぴよかんご）
+
+* セキュリティリサーチャー、セキュリティインコ
+* 他の2人からは "かんごさん" と呼ばれている
+* 最後に「バイバーイ」する人
+* インコを飼っている
+* Twitter - `@piyokango <https://twitter.com/piyokango>`_
+* blog - `piyolog <https://piyolog.hatenadiary.jp/>`_
+
+.. figure:: https://news.mynavi.jp/techplus/article/techp2029/images/001.jpg
+   :target: https://news.mynavi.jp/techplus/article/techp2029/
+  
+   画像は `こちら <https://news.mynavi.jp/techplus/article/techp2029/>`_ より引用
+
 
 過去の出演者・ゲスト
 -----------------------
@@ -60,36 +69,32 @@
 | 過去の出演者およびゲストを紹介します。
 | まだまとめきれていませんし、自己紹介がないため特定が難しい人物もおられます。
 
-* 宮田 健（みやた たけし）
+.. rubric:: 宮田 健 （みやた たけし）
 
-  * セキュリティ分野の動向に詳しいフリーライター
-  * ポッドキャストシーズン1「セキュリティのポッドキャスト（仮）」を辻氏と始めた
-  * 関連リンク
+* セキュリティ分野の動向に詳しいフリーライター
+* ポッドキャストシーズン1「セキュリティのポッドキャスト（仮）」を辻氏と始めた
+* 運営サイト - `About dpost.jp <https://dpost.jp/about/>`_
+* Twitter - `@mtakeshi <https://twitter.com/mtakeshi>`_
+* ITmedia 執筆記事 - `宮田健 - ITmedia 著者別インデックス <https://www.itmedia.co.jp/author/165031/>`_
 
-    * 運営サイト - `About dpost.jp <https://dpost.jp/about/>`_
-    * Twitter - `@mtakeshi <https://twitter.com/mtakeshi>`_
-    * ITmedia 執筆記事 - `宮田健 - ITmedia 著者別インデックス <https://www.itmedia.co.jp/author/165031/>`_
+.. rubric:: 井上 大介 （いのうえ だいすけ）
 
-* 井上 大介（いのうえ だいすけ）
+* 年末最後の配信で毎回恒例のゲスト
 
-  * 年末最後の配信で毎回恒例のゲスト
+  * 2018年12月30日 `第20回 <https://www.tsujileaks.com/?p=510>`_
+  * 2019年12月31日 `第31回 <https://www.tsujileaks.com/?p=563>`_
+  * 2020年12月28日 `第69回 <https://www.tsujileaks.com/?p=780>`_
+  * 2021年12月27日 `第116回 <https://www.tsujileaks.com/?p=1099>`_
+  * 2022年12月26日 `第162回 <https://www.tsujileaks.com/?p=1381>`_
 
-    * 2018年12月30日 `第20回 <https://www.tsujileaks.com/?p=510>`_
-    * 2019年12月31日 `第31回 <https://www.tsujileaks.com/?p=563>`_
-    * 2020年12月28日 `第69回 <https://www.tsujileaks.com/?p=780>`_
-    * 2021年12月27日 `第116回 <https://www.tsujileaks.com/?p=1099>`_
-    * 2022年12月26日 `第162回 <https://www.tsujileaks.com/?p=1381>`_
+* よくお腹が痛くなる
+* 所属は、独立行政法人情報通信研究機構
+* NICT メンバー紹介 - `井上 大介 | メンバー | サイバーセキュリティネクサス | NICT <https://cynex.nict.go.jp/people/daisuke-inoue.html>`_
 
-  * よくお腹が痛くなる
-  * 所属は、独立行政法人情報通信研究機構
-  * 関連リンク
+.. rubric:: 長谷川 陽介 （はせがわ ようすけ）
 
-    * NICT メンバー紹介 - `井上 大介 | メンバー | サイバーセキュリティネクサス | NICT <https://cynex.nict.go.jp/people/daisuke-inoue.html>`_
-
-* 長谷川 陽介（はせがわ ようすけ）
-
-  * 所属は、株式会社セキュアスカイ・テクノロジー
-  * Twitter - `@hasegawayosuke <https://twitter.com/hasegawayosuke>`_
+* 所属は、株式会社セキュアスカイ・テクノロジー
+* Twitter - `@hasegawayosuke <https://twitter.com/hasegawayosuke>`_
 
 コーナー
 ----------
@@ -118,14 +123,9 @@
 
 公式サイト・リンク
 --------------------
-* `tsujileaks - 公式サイト「セキュリティのアレ」 <https://www.tsujileaks.com/>`_
-* `@IT - 連載トップ「セキュリティのアレ」 <https://atmarkit.itmedia.co.jp/ait/subtop/features/ait/are.html>`_
-* `セキュリティのアレ 001 - LINE スタンプ | LINE STORE <https://store.line.me/stickershop/product/22148222/ja>`_
-
-関連サイト・リンク
--------------------
-* アイキャッチを描いている人 `Twitter - アレティ <https://twitter.com/aren0_e>`_ 
-* Twitter ハッシュタグ `#セキュリティのアレ`_
+* 公式サイト - `tsujileaks 「セキュリティのアレ」 <https://www.tsujileaks.com/>`_
+* 連載サイト - `@IT 「セキュリティのアレ」 <https://atmarkit.itmedia.co.jp/ait/subtop/features/ait/are.html>`_
+* LINE スタンプ - `セキュリティのアレ 001 | LINE STORE <https://store.line.me/stickershop/product/22148222/ja>`_
 
 出演者・ゲスト著書
 --------------------------

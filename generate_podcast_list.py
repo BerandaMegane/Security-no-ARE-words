@@ -13,6 +13,7 @@ out_rest_path = "./source/podcasts/podcast_list.rst"
 
 
 def write_file(reader, temp_reader, writer):
+    """テンプレートファイルに放送回一覧を書き込む"""
 
     # テーブル挿入位置 list-table ディレクティブを探す
     while "list-table" not in (temp_line:=temp_reader.readline()) :
@@ -32,8 +33,11 @@ def write_file(reader, temp_reader, writer):
     write_table(reader, writer)
     writer.write("\n")
 
-    # URLの参照
-    write_url_ref(reader, writer)
+    # URLの参照を書き込む
+    write_url_long_ref(reader, writer)
+    writer.write("\n")
+    write_url_short_ref(reader, writer)
+    writer.write("\n")
 
     # 通常部分はそのまま書き込む
     for temp_line in temp_reader:
@@ -44,14 +48,26 @@ def write_table(reader, writer):
     csv_reader = csv.DictReader(reader)
     for row in csv_reader:
         writer.write("   * - %s\n"    % (row["ID"]))
-        writer.write("     - `%s <%s>`_\n" % (row["タイトル"], row["URL"]))
+        writer.write("     - `%s <%s>`_ \n" % (row["タイトル"], row["URL"]))
         writer.write("     - %s\n"    % (row["公開日"]))
 
-def write_url_ref(reader, writer):
+def write_url_long_ref(reader, writer):
+    """次のような長い形式でURL参照を貼り付ける
+    .. _第193回 そろそろ秋を意識していきたい！スペシャル！: https://www.tsujileaks.com/?p=1595
+    """
     reader.seek(0)
     csv_reader = csv.DictReader(reader)
     for row in csv_reader:
         writer.write(".. _%s: %s\n" % (row["タイトル"], row["URL"]))
+
+def write_url_short_ref(reader, writer):
+    """次のような短い形式でURL参照を貼り付ける
+    .. _S3#193: https://www.tsujileaks.com/?p=1595
+    """
+    reader.seek(0)
+    csv_reader = csv.DictReader(reader)
+    for row in csv_reader:
+        writer.write(".. _%s: %s\n" % (row["ID"], row["URL"]))
 
 def main():
     # CSVファイル
