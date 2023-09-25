@@ -28,6 +28,12 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#195
+     - `第195回 KEVとOTPとMFA！スペシャル！ <https://www.tsujileaks.com/?p=1606>`_ 
+     - 2023年9月25日
+   * - S3#194
+     - `第194回 アレですよ！アレ！スペシャル！ <https://www.tsujileaks.com/?p=1600>`_ 
+     - 2023年9月18日
    * - S3#193
      - `第193回 そろそろ秋を意識していきたい！スペシャル！ <https://www.tsujileaks.com/?p=1595>`_ 
      - 2023年9月11日
@@ -830,6 +836,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第195回 KEVとOTPとMFA！スペシャル！: https://www.tsujileaks.com/?p=1606
+.. _第194回 アレですよ！アレ！スペシャル！: https://www.tsujileaks.com/?p=1600
 .. _第193回 そろそろ秋を意識していきたい！スペシャル！: https://www.tsujileaks.com/?p=1595
 .. _第192回 合わせ技一本！突撃となりのアノニマスに管理画面を添えて！スペシャル！: https://www.tsujileaks.com/?p=1591
 .. _第191回 偽らない偽りもあるんだぜ！スペシャル！: https://www.tsujileaks.com/?p=1587
@@ -1098,6 +1106,8 @@
 .. _第2回 「自粛」は自粛させていただきますスペシャル: https://www.tsujileaks.com/?p=41
 .. _第1回 タイトルも決まってないけどとりあえず始めましたスペシャル: https://www.tsujileaks.com/?p=10
 
+.. _S3#195: https://www.tsujileaks.com/?p=1606
+.. _S3#194: https://www.tsujileaks.com/?p=1600
 .. _S3#193: https://www.tsujileaks.com/?p=1595
 .. _S3#192: https://www.tsujileaks.com/?p=1591
 .. _S3#191: https://www.tsujileaks.com/?p=1587
