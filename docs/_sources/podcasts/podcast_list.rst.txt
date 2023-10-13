@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#197
+     - `第197回 夏は終わった！コンビニに明日はない！スペシャル！ <https://www.tsujileaks.com/?p=1616>`_ 
+     - 2023年10月10日
    * - S3#196
      - `第196回 あと4回で200回を迎えるぜ！スペシャル！ <https://www.tsujileaks.com/?p=1610>`_ 
      - 2023年10月2日
@@ -839,6 +842,7 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第197回 夏は終わった！コンビニに明日はない！スペシャル！: https://www.tsujileaks.com/?p=1616
 .. _第196回 あと4回で200回を迎えるぜ！スペシャル！: https://www.tsujileaks.com/?p=1610
 .. _第195回 KEVとOTPとMFA！スペシャル！: https://www.tsujileaks.com/?p=1606
 .. _第194回 アレですよ！アレ！スペシャル！: https://www.tsujileaks.com/?p=1600
@@ -1110,6 +1114,7 @@
 .. _第2回 「自粛」は自粛させていただきますスペシャル: https://www.tsujileaks.com/?p=41
 .. _第1回 タイトルも決まってないけどとりあえず始めましたスペシャル: https://www.tsujileaks.com/?p=10
 
+.. _S3#197: https://www.tsujileaks.com/?p=1616
 .. _S3#196: https://www.tsujileaks.com/?p=1610
 .. _S3#195: https://www.tsujileaks.com/?p=1606
 .. _S3#194: https://www.tsujileaks.com/?p=1600
