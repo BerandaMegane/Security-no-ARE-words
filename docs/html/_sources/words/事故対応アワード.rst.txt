@@ -1,0 +1,37 @@
+情報セキュリティ事故対応アワード
+=====================================================
+.. glossary::
+  情報セキュリティ事故対応アワード : じ
+
+.. glossary::
+  事故対応アワード : じ
+
+* マイナビが主催する年次イベント
+* 不幸にもセキュリティ事故に遭ってしまったものの、その後の対応が素晴らしかった企業を表彰している
+* 辻氏、根岸氏、piyokango氏の3名も審査員として参加しており、ポッドキャスト内で定期的に話題があがる
+
+.. rubric:: 関連リンク
+
+* `Twitter - 情報セキュリティ事故対応アワード @secraward <https://twitter.com/secraward>`_ 
+* `第1回 情報セキュリティ事故対応アワード <https://news.mynavi.jp/techplus/article/techp3286/>`_
+* `第2回 情報セキュリティ事故対応アワード <https://news.mynavi.jp/techplus/article/techp2495/>`_
+* `第3回 情報セキュリティ事故対応アワード <https://news.mynavi.jp/techplus/article/techp4229/>`_
+* `第4回 情報セキュリティ事故対応アワード <https://news.mynavi.jp/techplus/article/techp4342/>`_
+* `第5回 情報セキュリティ事故対応アワード <https://news.mynavi.jp/techplus/article/techp4921/>`_
+* `第6回 情報セキュリティ事故対応アワード <https://news.mynavi.jp/techplus/article/techp5460/>`_
+* `第7回 情報セキュリティ事故対応アワード <https://news.mynavi.jp/techplus/article/20220725-2394205/>`_
+* `第8回 情報セキュリティ事故対応アワード <https://news.mynavi.jp/techplus/article/20230808-2734313/>`_
+
+.. rubric:: 関連放送回
+
+* `第22回 318セキュリティ月間だ！ スペシャル`_
+* `第78回 それぞれの年度末仕事納めでのびのびしてんのか？！スペシャル！`_
+* `第129回 驚異の脅威！風とリークとテイクダウン！スペシャル`_
+* `第184回 これでやっとスタートラインなんだの精神で！スペシャル！`_
+* `第191回 偽らない偽りもあるんだぜ！スペシャル！`_
+
+.. _第22回 318セキュリティ月間だ！ スペシャル: https://www.tsujileaks.com/?p=518
+.. _第78回 それぞれの年度末仕事納めでのびのびしてんのか？！スペシャル！: https://www.tsujileaks.com/?p=834
+.. _第129回 驚異の脅威！風とリークとテイクダウン！スペシャル: https://www.tsujileaks.com/?p=1189
+.. _第184回 これでやっとスタートラインなんだの精神で！スペシャル！: https://www.tsujileaks.com/?p=1543
+.. _第191回 偽らない偽りもあるんだぜ！スペシャル！: https://www.tsujileaks.com/?p=1587

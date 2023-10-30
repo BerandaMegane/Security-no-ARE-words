@@ -1,0 +1,139 @@
+セキュリティのアレ
+==================
+.. glossary::
+  セキュリティのアレ : せ
+
+.. glossary::
+  アレ : あ
+
+* 略称は「アレ」で、Twitter ハッシュタグは `#セキュリティのアレ`_ 
+* `公式サイト <https://www.tsujileaks.com/>`_ 曰く、「`ゆるーいセキュリティのポッドキャストですよ。`」とのこと
+* 現在は、辻伸弘氏と根岸征史氏、piyokango氏の3名が情報セキュリティについてユーモアを交えつつ語る :doc:`国公認？ </words/サイバーセキュリティに関する総務大臣奨励賞>` のポッドキャスト
+* セキュリティインシデントや攻撃手法の最新情報、セキュリティ関連の時事情報をわかりやすく提供している 
+* これまでの歩みは :doc:`/podcasts/history` にて紹介しています
+* 2022年ごろから各回のイラスト（アイキャッチ）が用意されており、 `アレティ氏 <https://twitter.com/aren0_e>`_ が描いているとのこと
+
+現在の出演者
+--------------
+
+| 現在の主要なパーソナリティを紹介します。
+| まとめている私自身は出演者の方々と面識がある訳ではないため、間違いが含まれるかもしれません。
+| あくまでネットから集められる情報のみで紹介しています。ご了承ください。
+
+| ポッドキャストでは顔が見えないため、最初は3名のうち誰が話しているのか分かりづらいかもしれません。
+| そういった場合は、 `YouTube版セキュリティのアレ <https://atmarkit.itmedia.co.jp/ait/subtop/features/ait/are.html>`_ からの視聴をおすすめします。
+
+.. rubric:: 辻 伸弘 （つじ のぶひろ）
+  
+* セキュリティリサーチャー
+* 関西弁を話していればこの人
+* 所属は、SBテクノロジー株式会社
+* Twitter - `@ntsuji <https://twitter.com/ntsuji>`_
+* blog - `(n)inja csirt <https://csirt.ninja/>`_
+
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7m8dw92YEmA?si=9_LZJEOifSKALcTC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. rubric:: 根岸 征史 （ねぎし まさふみ）
+
+* セキュリティリサーチャー
+* 一番声が低ければこの人
+* 所属は、株式会社インターネットイニシアティブ
+* Twitter - `@MasafumiNegishi <https://twitter.com/MasafumiNegishi>`_
+* blog - `セキュリティは楽しいかね？ Part 2 <https://negi.hatenablog.com/>`_ 
+* blog - `セキュリティは楽しいかね？ Part 1 <https://ukky3.hatenablog.com/>`_
+
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/w_Y3qqgjmPc?si=CHcsLo9KyAuYzNeD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. rubric:: piyokango （ぴよかんご）
+
+* セキュリティリサーチャー、セキュリティインコ
+* 他の2人からは "かんごさん" と呼ばれている
+* 最後に「バイバーイ」する人
+* インコを飼っている
+* Twitter - `@piyokango <https://twitter.com/piyokango>`_
+* blog - `piyolog <https://piyolog.hatenadiary.jp/>`_
+
+.. figure:: https://news.mynavi.jp/techplus/article/techp2029/images/001.jpg
+   :target: https://news.mynavi.jp/techplus/article/techp2029/
+  
+   画像は `こちら <https://news.mynavi.jp/techplus/article/techp2029/>`_ より引用
+
+
+過去の出演者・ゲスト
+-----------------------
+
+| 過去の出演者およびゲストを紹介します。
+| まだまとめきれていませんし、自己紹介がないため特定が難しい人物もおられます。
+
+.. rubric:: 宮田 健 （みやた たけし）
+
+* セキュリティ分野の動向に詳しいフリーライター
+* ポッドキャストシーズン1「セキュリティのポッドキャスト（仮）」を辻氏と始めた
+* 運営サイト - `About dpost.jp <https://dpost.jp/about/>`_
+* Twitter - `@mtakeshi <https://twitter.com/mtakeshi>`_
+* ITmedia 執筆記事 - `宮田健 - ITmedia 著者別インデックス <https://www.itmedia.co.jp/author/165031/>`_
+
+.. rubric:: 井上 大介 （いのうえ だいすけ）
+
+* 年末最後の配信で毎回恒例のゲスト
+
+  * 2018年12月30日 `第20回 <https://www.tsujileaks.com/?p=510>`_
+  * 2019年12月31日 `第31回 <https://www.tsujileaks.com/?p=563>`_
+  * 2020年12月28日 `第69回 <https://www.tsujileaks.com/?p=780>`_
+  * 2021年12月27日 `第116回 <https://www.tsujileaks.com/?p=1099>`_
+  * 2022年12月26日 `第162回 <https://www.tsujileaks.com/?p=1381>`_
+
+* よくお腹が痛くなる
+* 所属は、独立行政法人情報通信研究機構
+* NICT メンバー紹介 - `井上 大介 | メンバー | サイバーセキュリティネクサス | NICT <https://cynex.nict.go.jp/people/daisuke-inoue.html>`_
+
+.. rubric:: 長谷川 陽介 （はせがわ ようすけ）
+
+* 所属は、株式会社セキュアスカイ・テクノロジー
+* Twitter - `@hasegawayosuke <https://twitter.com/hasegawayosuke>`_
+
+コーナー
+----------
+
+.. rubric:: 冒頭の雑談
+
+* ポッドキャストの冒頭は、出演者の自然な雑談から始まる。
+* 当初は「:doc:`始まってます`」というキーワードから収録が始まっていることを辻氏が宣言していたが、最近の放送回にはない。
+
+.. rubric:: お便りのコーナー
+
+* Twitterハッシュタグ `#セキュリティのアレ`_ に寄せられるリスナーの感想・質問などを読み上げるコーナー。
+* 詳しくは :doc:`お便りのコーナー` にて紹介しています。
+
+.. rubric:: セキュリティの話題紹介
+
+* セキュリティのアレの本題。
+* 出演者が持ち寄るセキュリティの話題の紹介。
+* 辻氏はランサムウェア、根岸氏はDDoS関連の話題を紹介することが定例。
+
+.. rubric:: おすすめのアレ
+
+* ポッドキャストの最後に紹介される、辻氏のおすすめする「モノ」。
+* 食べ物だったり、サービスだったり、さまざまなモノが紹介される。
+* 詳しくは :doc:`おすすめのアレ` にて紹介しています。
+
+公式サイト・リンク
+--------------------
+* 公式サイト - `tsujileaks 「セキュリティのアレ」 <https://www.tsujileaks.com/>`_
+* 連載サイト - `@IT 「セキュリティのアレ」 <https://atmarkit.itmedia.co.jp/ait/subtop/features/ait/are.html>`_
+* LINE スタンプ - `セキュリティのアレ 001 | LINE STORE <https://store.line.me/stickershop/product/22148222/ja>`_
+
+出演者・ゲスト著書
+--------------------------
+
+* `あなたがセキュリティで困っている理由 <https://bookplus.nikkei.com/atcl/catalog/19/274070/>`_ 辻伸弘, 2019
+* `あなたの知らないセキュリティの非常識 <https://bookplus.nikkei.com/atcl/catalog/17/264340/>`_ 辻伸弘, 2017
+* `あなたのセキュリティ対応間違っています <https://bookplus.nikkei.com/atcl/catalog/16/257130/>`_ 辻伸弘, 2016
+* `Q＆Aで考えるセキュリティ入門　「木曜日のフルット」と学ぼう！ <https://books.mdn.co.jp/books/3217203018/>`_ 宮田健, 2019
+* `デジタルの作法 <https://www.kadokawa.co.jp/product/301501001925/>`_ 宮田健, 2015
+
+.. _#セキュリティのアレ: https://twitter.com/search?q=%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&src=typed_query&f=live
