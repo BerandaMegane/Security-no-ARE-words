@@ -30,6 +30,7 @@ language = 'ja'
 
 # sphinx_sitemap 向け設定
 html_baseurl = "https://are.bocchi-megane.dev/"
+sitemap_locales = [None]
 sitemap_url_scheme = "{link}"
 
 # sphinxext.opengraph 向け設定
@@ -60,5 +61,6 @@ html_theme_options = {
 
 # 出力先ディレクトリにコピーする追加ファイル
 html_extra_path = [
-    "CNAME"
+    "CNAME",
+    "robots.txt",
 ]
