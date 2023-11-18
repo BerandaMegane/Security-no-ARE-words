@@ -28,6 +28,12 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#200
+     - `第200回 これは通過点なんだ！スペシャル！ <https://www.tsujileaks.com/?p=1635>`_ 
+     - 2023月11月14日
+   * - S3#199
+     - `第199回 あと1回！スペシャル！ <https://www.tsujileaks.com/?p=1626>`_ 
+     - 2023月11月06日
    * - S3#198
      - `第198回 なんだかんだ泥臭く行くのだ！スペシャル！ <https://www.tsujileaks.com/?p=1622>`_ 
      - 2023月10月23日
@@ -845,6 +851,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第200回 これは通過点なんだ！スペシャル！: https://www.tsujileaks.com/?p=1635
+.. _第199回 あと1回！スペシャル！: https://www.tsujileaks.com/?p=1626
 .. _第198回 なんだかんだ泥臭く行くのだ！スペシャル！: https://www.tsujileaks.com/?p=1622
 .. _第197回 夏は終わった！コンビニに明日はない！スペシャル！: https://www.tsujileaks.com/?p=1616
 .. _第196回 あと4回で200回を迎えるぜ！スペシャル！: https://www.tsujileaks.com/?p=1610
@@ -1118,6 +1126,8 @@
 .. _第2回 「自粛」は自粛させていただきますスペシャル: https://www.tsujileaks.com/?p=41
 .. _第1回 タイトルも決まってないけどとりあえず始めましたスペシャル: https://www.tsujileaks.com/?p=10
 
+.. _S3#200: https://www.tsujileaks.com/?p=1635
+.. _S3#199: https://www.tsujileaks.com/?p=1626
 .. _S3#198: https://www.tsujileaks.com/?p=1622
 .. _S3#197: https://www.tsujileaks.com/?p=1616
 .. _S3#196: https://www.tsujileaks.com/?p=1610
