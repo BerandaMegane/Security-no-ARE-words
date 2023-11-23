@@ -47,6 +47,18 @@
 
 * 2017年6月1日 piyokango氏が、2017年度 :doc:`/words/サイバーセキュリティに関する総務大臣奨励賞` を受賞する
 
+.. rubric:: 2018年
+
+* 幻の第12回が存在する
+
+  * 前回、2018年1月？に収録したところ、録音ボタンを押し忘れたとのこと（ `S3#12`_ で言及）
+
+.. rubric:: 2018年
+
+* 幻の第29回が存在する
+
+  * 前回の収録は、辻氏の部屋で流していた BGM が録音されてしまっており、没になったとのこと（ `S3#29`_ で言及）
+
 .. rubric:: 2020年
 
 * 2020年4月～ リモート収録が始まる
@@ -72,6 +84,9 @@
 .. _「レイバンをかたったスパム投稿」をどう見る？【動画】: https://atmarkit.itmedia.co.jp/ait/articles/1511/10/news022.html
 .. _どれだけ注意喚起しても「パスワードの安全な管理」が普及しないのはなぜなのか: https://atmarkit.itmedia.co.jp/ait/articles/1703/21/news025.html
 .. _第1回 動画のアレからポッドキャストのアレに帰ってきたよ！スペシャル: https://www.tsujileaks.com/?p=426
+
+.. _S3#12: https://www.tsujileaks.com/?p=480
+.. _S3#29: https://www.tsujileaks.com/?p=556
 
 .. _tsujileaks.com: https://www.tsujileaks.com
 .. _ITmedia @IT: https://atmarkit.itmedia.co.jp/ait/subtop/features/ait/are.html

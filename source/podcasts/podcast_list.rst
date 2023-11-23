@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#201
+     - `第201回 このポッドキャストは58分37秒で聴けます！スペシャル！ <https://www.tsujileaks.com/?p=1639>`_ 
+     - 2023月11月20日
    * - S3#200
      - `第200回 これは通過点なんだ！スペシャル！ <https://www.tsujileaks.com/?p=1635>`_ 
      - 2023月11月14日
@@ -851,6 +854,7 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第201回 このポッドキャストは58分37秒で聴けます！スペシャル！: https://www.tsujileaks.com/?p=1639
 .. _第200回 これは通過点なんだ！スペシャル！: https://www.tsujileaks.com/?p=1635
 .. _第199回 あと1回！スペシャル！: https://www.tsujileaks.com/?p=1626
 .. _第198回 なんだかんだ泥臭く行くのだ！スペシャル！: https://www.tsujileaks.com/?p=1622
@@ -1126,6 +1130,7 @@
 .. _第2回 「自粛」は自粛させていただきますスペシャル: https://www.tsujileaks.com/?p=41
 .. _第1回 タイトルも決まってないけどとりあえず始めましたスペシャル: https://www.tsujileaks.com/?p=10
 
+.. _S3#201: https://www.tsujileaks.com/?p=1639
 .. _S3#200: https://www.tsujileaks.com/?p=1635
 .. _S3#199: https://www.tsujileaks.com/?p=1626
 .. _S3#198: https://www.tsujileaks.com/?p=1622

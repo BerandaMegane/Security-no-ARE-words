@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "セキュリティのアレ用語集"
+project = "セキュリティのアレまとめ"
 copyright = "2023, BerandaMegane"
 author = "BerandaMegane"
 
@@ -40,7 +40,7 @@ ogp_image = "http://are.bocchi-megane.dev/ogp_image.png"
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_title = "セキュリティのアレ用語集"
+html_title = "セキュリティのアレまとめ"
 html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
 html_favicon = "_static/favicon.ico"
