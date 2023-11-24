@@ -11,8 +11,11 @@
   * `S3#34`_ からコロナ禍によってリモート収録が始まったため `S3#33`_ を最後に「始まってます」コールがなくなった（はず）
 
 .. tip:: 
+  特殊な「始まってます」まとめ
+  
   * `S3#35`_ では、辻氏「始まりましたよ」、根岸氏「始まってましたか」
   * `S3#36`_ では、辻氏「いやー、一週間ぶりですよ」、根岸氏「なにこれ、もう、始まってんの？」
+  * `S3#59`_ では、piyokango氏「始まっ…りましたね」
 
 .. tip:: 
   ちなみにシーズン1では、軽快な音楽から毎回スタートし、宮田氏がタイトルコールしていた
@@ -24,15 +27,18 @@
 * `第34回 初リモート収録！Stay at Home！スペシャル`_
 * `第35回 頻度上げてくぜ！外に出られなくても気分も上げてくぜ！スペシャル`_
 * `第36回 小ネタ盛りだくさん！Home From Homeを目指して！スペシャル`_
+* `第59回 雑談3割！おかわり偽給付金ととある勉強法とE2EEの話！スペシャル！`_
 
 .. _S3#30: https://www.tsujileaks.com/?p=561
 .. _S3#33: https://www.tsujileaks.com/?p=570
 .. _S3#34: https://www.tsujileaks.com/?p=576
 .. _S3#35: https://www.tsujileaks.com/?p=580
 .. _S3#36: https://www.tsujileaks.com/?p=584
+.. _S3#59: https://www.tsujileaks.com/?p=712
 
 .. _第30回 良いお年を！はまだ言わないぜ！スペシャル: https://www.tsujileaks.com/?p=561
 .. _第33回 タイトル付けるのに困るほどおもろかったぞ！スペシャル: https://www.tsujileaks.com/?p=570
 .. _第34回 初リモート収録！Stay at Home！スペシャル: https://www.tsujileaks.com/?p=576
 .. _第35回 頻度上げてくぜ！外に出られなくても気分も上げてくぜ！スペシャル: https://www.tsujileaks.com/?p=580
 .. _第36回 小ネタ盛りだくさん！Home From Homeを目指して！スペシャル: https://www.tsujileaks.com/?p=584
+.. _第59回 雑談3割！おかわり偽給付金ととある勉強法とE2EEの話！スペシャル！: https://www.tsujileaks.com/?p=712
