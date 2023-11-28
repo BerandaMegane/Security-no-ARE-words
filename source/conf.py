@@ -62,5 +62,4 @@ html_theme_options = {
 # 出力先ディレクトリにコピーする追加ファイル
 html_extra_path = [
     "CNAME",
-    "robots.txt",
 ]
