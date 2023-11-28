@@ -43,9 +43,7 @@ def write_file(reader, temp_reader, writer):
     writer.write("\n")
 
     # URLの参照を書き込む
-    write_url_long_ref(reader, writer)
-    writer.write("\n")
-    write_url_short_ref(reader, writer)
+    write_url_ref(reader, writer)
     writer.write("\n")
 
     # 通常部分はそのまま書き込む
@@ -76,6 +74,17 @@ def write_url_short_ref(reader, writer):
     reader.seek(0)
     csv_reader = csv.DictReader(reader)
     for row in csv_reader:
+        writer.write(".. _%s: %s\n" % (row["ID"], row["URL"]))
+
+def write_url_ref(reader, writer):
+    """次のような形式でURL参照を貼り付ける
+    .. _第193回 そろそろ秋を意識していきたい！スペシャル！: https://www.tsujileaks.com/?p=1595
+    .. _S3#193: https://www.tsujileaks.com/?p=1595
+    """
+    reader.seek(0)
+    csv_reader = csv.DictReader(reader)
+    for row in csv_reader:
+        writer.write(".. _%s: %s\n" % (row["タイトル"], row["URL"]))
         writer.write(".. _%s: %s\n" % (row["ID"], row["URL"]))
 
 def parse_RFC2822_datetime(date_str_rfc2822: str):
