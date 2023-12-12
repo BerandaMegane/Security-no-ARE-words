@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#204
+     - `第204回 ギリギリの紹介ラインがあるんだぜ！スペシャル！ <https://www.tsujileaks.com/?p=1655>`_ 
+     - 2023月12月12日
    * - S3#203
      - `第203回 呼ばれてへんねん！スペシャル！ <https://www.tsujileaks.com/?p=1649>`_ 
      - 2023月12月04日
@@ -860,6 +863,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第204回 ギリギリの紹介ラインがあるんだぜ！スペシャル！: https://www.tsujileaks.com/?p=1655
+.. _S3#204: https://www.tsujileaks.com/?p=1655
 .. _第203回 呼ばれてへんねん！スペシャル！: https://www.tsujileaks.com/?p=1649
 .. _S3#203: https://www.tsujileaks.com/?p=1649
 .. _第202回 アイキャッチの案を大募集だ！スペシャル！: https://www.tsujileaks.com/?p=1643
