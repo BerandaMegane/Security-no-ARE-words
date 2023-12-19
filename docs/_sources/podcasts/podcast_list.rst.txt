@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#205
+     - `第205回 我々もまぁまぁスジナシだ！スペシャル！ <https://www.tsujileaks.com/?p=1659>`_ 
+     - 2023月12月18日
    * - S3#204
      - `第204回 ギリギリの紹介ラインがあるんだぜ！スペシャル！ <https://www.tsujileaks.com/?p=1655>`_ 
      - 2023月12月12日
@@ -863,6 +866,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第205回 我々もまぁまぁスジナシだ！スペシャル！: https://www.tsujileaks.com/?p=1659
+.. _S3#205: https://www.tsujileaks.com/?p=1659
 .. _第204回 ギリギリの紹介ラインがあるんだぜ！スペシャル！: https://www.tsujileaks.com/?p=1655
 .. _S3#204: https://www.tsujileaks.com/?p=1655
 .. _第203回 呼ばれてへんねん！スペシャル！: https://www.tsujileaks.com/?p=1649
