@@ -4,17 +4,38 @@
   おすすめのアレ : お
 
 * セキュリティの話題を話し終えたあと、辻氏のおすすめを紹介するコーナー（食べ物やその他の商品など）
-* これまでに「サンガリア みっくちゅじゅーちゅ」などが紹介されており、 `#セキュリティのアレ`_ での反応も多く人気のコーナー
+* `#セキュリティのアレ`_ での反応も多く人気のコーナー
+* いままでに紹介されたアレ
+
+  * 「サンガリア みっくちゅじゅーちゅ」
+  * `S3#60`_ 1:13:30 での「スマホを落としただけなのに（映画）」（辻氏が監修クレジットあり）
+  * `S3#61`_ での「グーニーズ（映画）」
 
 .. tip:: 
-  * おそらく、初めての「おすすめのアレ」は `S3#60`_ 1:13:30 における「スマホを落としただけなのに（映画）」が紹介されたこと（辻氏が監修・字幕クレジットあり）
-  * 次回の `S3#61`_ でも「グーニーズ（映画）」が紹介されていた
+  * 初めて「おすすめのアレ」と名言されたのは `S3#43`_ とのこと
 
-.. _第60回 nanoネタから公職選挙法違反ネタまで！ガイド紹介もあるぜ！スペシャル！: https://www.tsujileaks.com/?p=720
-.. _第61回 伏線回収と変わり種注意喚起とちょっとだけ社会派！スペシャル！: https://www.tsujileaks.com/?p=730
+    * 再生時間1時間8分ごろ
 
-.. _S3#60: https://www.tsujileaks.com/?p=720
-.. _S3#61: https://www.tsujileaks.com/?p=730
+  .. raw:: html
+
+    <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">第43回 COCOA！DDOS！EXCEL！ちばしがさが！スペシャル！ | podcast - セキュリティの『アレ』 <a href="https://t.co/2XVGBev4K6">https://t.co/2XVGBev4K6</a><br>「おすすめのアレ」初出回だ！ <a href="https://twitter.com/hashtag/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC?src=hash&amp;ref_src=twsrc%5Etfw">#セキュリティのアレ</a></p>&mdash; Toshiyuki HYODO (@hyd_nemui) <a href="https://twitter.com/hyd_nemui/status/1736717814369849523?ref_src=twsrc%5Etfw">December 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+.. rubric:: 関連放送回
+
+* `第43回 COCOA！DDOS！EXCEL！ちばしがさが！スペシャル！`_
+* `第60回 nanoネタから公職選挙法違反ネタまで！ガイド紹介もあるぜ！スペシャル！`_
+* `第61回 伏線回収と変わり種注意喚起とちょっとだけ社会派！スペシャル！`_
+
+.. rubric:: 関連リンク
+
+* Twitter(X) ハッシュタグ `#セキュリティのアレ`_
 
 .. _#セキュリティのアレ: https://twitter.com/search?q=%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&src=typed_query&f=live
 
+.. _第60回 nanoネタから公職選挙法違反ネタまで！ガイド紹介もあるぜ！スペシャル！: https://www.tsujileaks.com/?p=720
+.. _S3#60: https://www.tsujileaks.com/?p=720
+.. _第61回 伏線回収と変わり種注意喚起とちょっとだけ社会派！スペシャル！: https://www.tsujileaks.com/?p=730
+.. _S3#61: https://www.tsujileaks.com/?p=730
+.. _第43回 COCOA！DDOS！EXCEL！ちばしがさが！スペシャル！: https://www.tsujileaks.com/?p=611
+.. _S3#43: https://www.tsujileaks.com/?p=611

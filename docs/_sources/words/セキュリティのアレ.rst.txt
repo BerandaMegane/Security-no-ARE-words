@@ -10,8 +10,15 @@
 * `公式サイト <https://www.tsujileaks.com/>`_ 曰く、「`ゆるーいセキュリティのポッドキャストですよ。`」とのこと
 * 現在は、辻伸弘氏と根岸征史氏、piyokango氏の3名が情報セキュリティについてユーモアを交えつつ語る :doc:`国公認？ </words/サイバーセキュリティに関する総務大臣奨励賞>` のポッドキャスト
 * セキュリティインシデントや攻撃手法の最新情報、セキュリティ関連の時事情報をわかりやすく提供している 
-* これまでの歩みは :doc:`/podcasts/history` にて紹介しています
 * 2022年ごろから各回のイラスト（アイキャッチ）が用意されており、 `アレティ氏 <https://twitter.com/aren0_e>`_ が描いているとのこと
+
+.. tip:: 
+  * 辻氏には、このサイトが認知されているかもしれない（下のツイートにいいねがついている）
+  
+  .. raw:: html
+    
+    <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC?src=hash&amp;ref_src=twsrc%5Etfw">#セキュリティのアレ</a> 205回<br>シージャーバナーがわからなくてググったら<br>&quot;セキュリティのアレまとめ&quot;というサイトに辿り着いた</p>&mdash; リンゴ大福 (@ringodaifuku123) <a href="https://twitter.com/ringodaifuku123/status/1737054714838266063?ref_src=twsrc%5Etfw">December 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 
 現在の出演者
 --------------
