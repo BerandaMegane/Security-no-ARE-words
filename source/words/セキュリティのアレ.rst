@@ -86,14 +86,7 @@
 
 .. rubric:: 井上 大介 （いのうえ だいすけ）
 
-* 年末最後の配信で毎回恒例のゲスト
-
-  * 2018年12月30日 `第20回 <https://www.tsujileaks.com/?p=510>`_
-  * 2019年12月31日 `第31回 <https://www.tsujileaks.com/?p=563>`_
-  * 2020年12月28日 `第69回 <https://www.tsujileaks.com/?p=780>`_
-  * 2021年12月27日 `第116回 <https://www.tsujileaks.com/?p=1099>`_
-  * 2022年12月26日 `第162回 <https://www.tsujileaks.com/?p=1381>`_
-
+* 年末最終回の :doc:`室長スペシャル` で恒例のゲスト
 * よくお腹が痛くなる
 * 所属は、独立行政法人情報通信研究機構
 * NICT メンバー紹介 - `井上 大介 | メンバー | サイバーセキュリティネクサス | NICT <https://cynex.nict.go.jp/people/daisuke-inoue.html>`_
