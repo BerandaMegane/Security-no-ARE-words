@@ -14,5 +14,5 @@ About
 
 お問合せ
 -------------------
-* お問合せ・ご意見・ご要望は `「セキュリティのアレ用語集」 お問合せフォーム <https://forms.gle/7adWctvUpwrNvZxD6>`_ へ
+* お問合せ・ご意見・ご要望は `「セキュリティのアレまとめ」 お問合せフォーム <https://forms.gle/7adWctvUpwrNvZxD6>`_ へ
 * このサイトの管理人は `Twitter@BerandaMegane <https://twitter.com/BerandaMegane>`_ です

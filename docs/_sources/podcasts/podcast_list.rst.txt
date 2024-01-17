@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#207
+     - `第207回 振り返りつつも前に向くのか？スペシャル！ <https://www.tsujileaks.com/?p=1672>`_ 
+     - 2024月01月16日
    * - S3#206
      - `第206回 トリプル長爆誕！スペシャル！ <https://www.tsujileaks.com/?p=1665>`_ 
      - 2023月12月25日
@@ -869,6 +872,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第207回 振り返りつつも前に向くのか？スペシャル！: https://www.tsujileaks.com/?p=1672
+.. _S3#207: https://www.tsujileaks.com/?p=1672
 .. _第206回 トリプル長爆誕！スペシャル！: https://www.tsujileaks.com/?p=1665
 .. _S3#206: https://www.tsujileaks.com/?p=1665
 .. _第205回 我々もまぁまぁスジナシだ！スペシャル！: https://www.tsujileaks.com/?p=1659
