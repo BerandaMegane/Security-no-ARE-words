@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#209
+     - `第209回 生々！スペシャル！ <https://www.tsujileaks.com/?p=1686>`_ 
+     - 2024月01月29日
    * - S3#208
      - `第208回 時間による解決と抗い！スペシャル！ <https://www.tsujileaks.com/?p=1680>`_ 
      - 2024月01月22日
@@ -875,6 +878,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第209回 生々！スペシャル！: https://www.tsujileaks.com/?p=1686
+.. _S3#209: https://www.tsujileaks.com/?p=1686
 .. _第208回 時間による解決と抗い！スペシャル！: https://www.tsujileaks.com/?p=1680
 .. _S3#208: https://www.tsujileaks.com/?p=1680
 .. _第207回 振り返りつつも前に向くのか？スペシャル！: https://www.tsujileaks.com/?p=1672

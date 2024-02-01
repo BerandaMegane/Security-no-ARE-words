@@ -35,6 +35,7 @@
   
 * セキュリティリサーチャー
 * 関西弁を話していればこの人
+* ポッドキャストには、 `S1#1`_ から参加している
 * 所属は、SBテクノロジー株式会社
 * Twitter - `@ntsuji <https://twitter.com/ntsuji>`_
 * blog - `(n)inja csirt <https://csirt.ninja/>`_
@@ -47,6 +48,10 @@
 
 * セキュリティリサーチャー
 * 一番声が低ければこの人
+* ポッドキャストには、 `S1#13`_ から参加している
+
+  * ポッドキャスト内では `S1#7`_ で言及されている
+
 * 所属は、株式会社インターネットイニシアティブ
 * Twitter - `@MasafumiNegishi <https://twitter.com/MasafumiNegishi>`_
 * blog - `セキュリティは楽しいかね？ Part 2 <https://negi.hatenablog.com/>`_ 
@@ -80,7 +85,7 @@
 .. rubric:: 宮田 健 （みやた たけし）
 
 * セキュリティ分野の動向に詳しいフリーライター
-* ポッドキャストシーズン1「セキュリティのポッドキャスト（仮）」を辻氏と始めた
+* ポッドキャストを辻氏と始め、シーズン1およびシーズン2に出演している
 * 運営サイト - `About dpost.jp <https://dpost.jp/about/>`_
 * Twitter - `@mtakeshi <https://twitter.com/mtakeshi>`_
 * ITmedia 執筆記事 - `宮田健 - ITmedia 著者別インデックス <https://www.itmedia.co.jp/author/165031/>`_
@@ -91,6 +96,43 @@
 * よくお腹が痛くなる
 * 所属は、独立行政法人情報通信研究機構
 * NICT メンバー紹介 - `井上 大介 | メンバー | サイバーセキュリティネクサス | NICT <https://cynex.nict.go.jp/people/daisuke-inoue.html>`_
+
+.. rubric:: マチコマ
+
+* `S1#3`_ にゲスト出演している
+* dpost.jp (宮田氏が運営しているディズニー関連ポッドキャスト) にも出演している（らしい）
+* ネットストーカー呼ばわりされている
+* Twitter - `@machikoma <https://twitter.com/machikoma>`_ （凍結）
+
+.. rubric:: Stacy
+
+* `S1#8`_ にゲスト出演している
+* 女子高生で IDS を開発した（！？）
+* Twitter - `@Stacy <https://twitter.com/kuroneko_stacy>`_
+
+.. rubric:: 川口 洋 （かわぐち ひろし）
+
+* 株式会社川口設計 代表取締役
+* `S1#13`_ に出演している (出演時は株式会社ラック所属)
+* 会社情報 - `株式会社 川口設計 <https://www.sec-k.co.jp/>`_
+
+.. rubric:: 橋本
+
+* `S1#21`_ に出演している
+* 所属している IO Inc. は「みんなの顔文字」アプリを運営している
+
+.. rubric:: 高橋
+
+* `S1#21`_ に出演している
+* @IT の記者
+
+.. rubric:: タケダ
+
+* `S1#24`_ に出演している
+
+.. rubric:: 北川
+
+* `S1#24`_ に出演している
 
 .. rubric:: 長谷川 陽介 （はせがわ ようすけ）
 
@@ -141,3 +183,17 @@
 
 .. _第208回 時間による解決と抗い！スペシャル！: https://www.tsujileaks.com/?p=1680
 .. _S3#208: https://www.tsujileaks.com/?p=1680
+.. _第24回 ボクたちの戦いは始まったばかりだ！スペシャル: https://www.tsujileaks.com/?p=381
+.. _S1#24: https://www.tsujileaks.com/?p=381
+.. _第21回 とりあえず聞いてよっ！奥さんっ！スペシャル: https://www.tsujileaks.com/?p=348
+.. _S1#21: https://www.tsujileaks.com/?p=348
+.. _第13回 勢いにまかせて急遽収録が開始されたよ！スペシャル: https://www.tsujileaks.com/?p=281
+.. _S1#13: https://www.tsujileaks.com/?p=281
+.. _第8回 初めてのオフライン収録！初めてのゲスト！しかも女性！スペシャル: https://www.tsujileaks.com/?p=174
+.. _S1#8: https://www.tsujileaks.com/?p=174
+.. _第7回 セキュリティに関係のある話をできるだけしようスペシャル。: https://www.tsujileaks.com/?p=162
+.. _S1#7: https://www.tsujileaks.com/?p=162
+.. _第3回 成り行きでこのポッドキャストのタイトルが決まりましたスペシャル: https://www.tsujileaks.com/?p=73
+.. _S1#3: https://www.tsujileaks.com/?p=73
+.. _第1回 タイトルも決まってないけどとりあえず始めましたスペシャル: https://www.tsujileaks.com/?p=10
+.. _S1#1: https://www.tsujileaks.com/?p=10
