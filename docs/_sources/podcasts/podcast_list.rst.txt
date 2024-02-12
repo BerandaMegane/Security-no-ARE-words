@@ -28,6 +28,12 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#211
+     - `第211回 なんでか気になることってあるんですわ！スペシャル！ <https://www.tsujileaks.com/?p=1700>`_ 
+     - 2024月02月12日
+   * - S3#210
+     - `第210回 まめまめま〜め♪スペシャル！ <https://www.tsujileaks.com/?p=1691>`_ 
+     - 2024月02月05日
    * - S3#209
      - `第209回 生々！スペシャル！ <https://www.tsujileaks.com/?p=1686>`_ 
      - 2024月01月29日
@@ -878,6 +884,10 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第211回 なんでか気になることってあるんですわ！スペシャル！: https://www.tsujileaks.com/?p=1700
+.. _S3#211: https://www.tsujileaks.com/?p=1700
+.. _第210回 まめまめま〜め♪スペシャル！: https://www.tsujileaks.com/?p=1691
+.. _S3#210: https://www.tsujileaks.com/?p=1691
 .. _第209回 生々！スペシャル！: https://www.tsujileaks.com/?p=1686
 .. _S3#209: https://www.tsujileaks.com/?p=1686
 .. _第208回 時間による解決と抗い！スペシャル！: https://www.tsujileaks.com/?p=1680
