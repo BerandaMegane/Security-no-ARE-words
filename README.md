@@ -20,11 +20,9 @@ Sphinx を使って HTML ドキュメントを生成し、ウェブにホステ�
 ## インストール
 Windows における Python 環境でのインストール方法です。Python については省略します。
 
-### Sphinx
-Sphinx（生成ツール本体）と sphinx-autobuild（自動リロードツール）をインストールします。
-```
-pip install sphinx
-pip install sphinx-autobuild
+```powershell
+# インストールスクリプト実行
+.\install.ps1
 ```
 
 ## ドキュメント生成（ビルド）
@@ -45,5 +43,6 @@ http://localhost:8000 にアクセスするとドキュメントを閲覧でき�
 ```
 
 ### 放送回一覧リストの更新
-放送回一覧ページ（podcast_list.rst）は、generate_podcast_list.py によって生成している。  
-CSVファイル /_static/セキュリティのアレ_放送回リスト.csv をもとに、テンプレートファイル /podcasts/podcast_list.rst.template に表を挿入している。
+放送回一覧ページ（podcast_list.rst）は、generate_podcast_list.py によって生成しています。  
+新しい放送回があれば、generate_podcast_list.py を実行することで、自動的に一覧が更新されます。  
+CSVファイル /_static/セキュリティのアレ_放送回リスト.csv をもとに、テンプレートファイル /podcasts/podcast_list.rst.template に表を挿入しています。
