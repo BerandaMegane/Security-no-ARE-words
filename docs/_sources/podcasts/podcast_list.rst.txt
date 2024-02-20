@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#212
+     - `第212回 ちゃんと寝て、ちゃんと記録を取ろう！スペシャル！ <https://www.tsujileaks.com/?p=1707>`_ 
+     - 2024月02月19日
    * - S3#211
      - `第211回 なんでか気になることってあるんですわ！スペシャル！ <https://www.tsujileaks.com/?p=1700>`_ 
      - 2024月02月12日
@@ -884,6 +887,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第212回 ちゃんと寝て、ちゃんと記録を取ろう！スペシャル！: https://www.tsujileaks.com/?p=1707
+.. _S3#212: https://www.tsujileaks.com/?p=1707
 .. _第211回 なんでか気になることってあるんですわ！スペシャル！: https://www.tsujileaks.com/?p=1700
 .. _S3#211: https://www.tsujileaks.com/?p=1700
 .. _第210回 まめまめま〜め♪スペシャル！: https://www.tsujileaks.com/?p=1691
