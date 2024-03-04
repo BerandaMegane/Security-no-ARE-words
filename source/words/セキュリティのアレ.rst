@@ -6,8 +6,11 @@
 .. glossary::
   アレ : あ
 
+* `公式サイト <https://www.tsujileaks.com/>`_ によると、 `ゆるーいセキュリティのポッドキャストですよ。` とのこと
 * 略称は「アレ」で、Twitter ハッシュタグは `#セキュリティのアレ`_ 
-* `公式サイト <https://www.tsujileaks.com/>`_ 曰く、「`ゆるーいセキュリティのポッドキャストですよ。`」とのこと
+
+  * ポッドキャストにお便りを送りたい場合は、 `#セキュリティのアレ`_ をつけてツイートすると、お便りとして読んでもらえることがある
+
 * 現在は、辻伸弘氏と根岸征史氏、piyokango氏の3名が情報セキュリティについてユーモアを交えつつ語る :doc:`国公認？ </words/サイバーセキュリティに関する総務大臣奨励賞>` のポッドキャスト
 * セキュリティインシデントや攻撃手法の最新情報、セキュリティ関連の時事情報をわかりやすく提供している 
 * 2022年ごろから各回のイラスト（アイキャッチ）が用意されており、 `アレティ氏 <https://twitter.com/aren0_e>`_ が描いているとのこと
@@ -20,6 +23,23 @@
     
     <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC?src=hash&amp;ref_src=twsrc%5Etfw">#セキュリティのアレ</a> 205回<br>シージャーバナーがわからなくてググったら<br>&quot;セキュリティのアレまとめ&quot;というサイトに辿り着いた</p>&mdash; リンゴ大福 (@ringodaifuku123) <a href="https://twitter.com/ringodaifuku123/status/1737054714838266063?ref_src=twsrc%5Etfw">December 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+配信サイト・サービス
+---------------------
+* `tsujileaks.com <https://www.tsujileaks.com/>`_
+
+  * 公式サイト（第1、第3シリーズ）
+
+* `ITmedia @IT <https://atmarkit.itmedia.co.jp/ait/subtop/features/ait/are.html>`_
+
+  * 連載サイト（第2シリーズ）
+
+* `Spotify <https://open.spotify.com/show/00MDJnDxp69uYou5V3hkqP>`_
+* `Apple Podcast <https://podcasts.apple.com/jp/podcast/id431514172>`_
+* `Google Podcasts <https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudHN1amlsZWFrcy5jb20vP2ZlZWQ9cG9kY2FzdA>`_
+* `Amazon Music <https://music.amazon.co.jp/podcasts/006aad18-d823-4b3a-8463-1c28009ad411/podcast-%E2%80%93-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC>`_
+* `LISTEN <https://listen.style/p/sec_are>`_
+
+  * LISTEN (listen.style) はポッドキャストの音声を文字起こししてくれるサービスのため、話題を検索したいときに便利
 
 現在の出演者
 --------------
@@ -85,7 +105,7 @@
 .. rubric:: 宮田 健 （みやた たけし）
 
 * セキュリティ分野の動向に詳しいフリーライター
-* ポッドキャストを辻氏と始め、シーズン1およびシーズン2に出演している
+* ポッドキャストを辻氏と始め、第1シーズンおよび第2シーズンに出演している
 * 運営サイト - `About dpost.jp <https://dpost.jp/about/>`_
 * Twitter - `@mtakeshi <https://twitter.com/mtakeshi>`_
 * ITmedia 執筆記事 - `宮田健 - ITmedia 著者別インデックス <https://www.itmedia.co.jp/author/165031/>`_

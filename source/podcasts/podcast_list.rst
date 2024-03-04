@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#213
+     - `第213回 安全第一！品質第二！生産第三！スペシャル！ <https://www.tsujileaks.com/?p=1714>`_ 
+     - 2024月03月04日
    * - S3#212
      - `第212回 ちゃんと寝て、ちゃんと記録を取ろう！スペシャル！ <https://www.tsujileaks.com/?p=1707>`_ 
      - 2024月02月19日
@@ -887,6 +890,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第213回 安全第一！品質第二！生産第三！スペシャル！: https://www.tsujileaks.com/?p=1714
+.. _S3#213: https://www.tsujileaks.com/?p=1714
 .. _第212回 ちゃんと寝て、ちゃんと記録を取ろう！スペシャル！: https://www.tsujileaks.com/?p=1707
 .. _S3#212: https://www.tsujileaks.com/?p=1707
 .. _第211回 なんでか気になることってあるんですわ！スペシャル！: https://www.tsujileaks.com/?p=1700
