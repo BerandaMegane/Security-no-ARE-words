@@ -7,13 +7,10 @@ Residential Proxy
   RESIP : R
 
 .. glossary::
-  レジデンシャルプロキシー : レ
+  レジデンシャルプロキシー : れ
 
 * 住宅用ネットワーク（Residential）のホストを利用したトラフィックの中継を行うプロキシーサービスの一種
 * 自宅にあるようなコンピュータ上でプロキシーサーバー（プロキシーウェア）が動作しており、見ず知らずの人のコンピュータを中継点として利用できる
-* 次の説明は `SOMPO CYBER SECURITY 用語集 <https://www.sompocybersecurity.com/column/glossary/residential-proxy>`_ より引用     
-
-    特定の国や所在地に基づくIPアドレスを利用したWebアクセスを可能にすることにより、住宅ユーザーとして、特定地域向けのサービスなどを利用する目的などで利用されています。
 
 * 利用例
 
