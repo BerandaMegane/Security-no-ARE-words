@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "セキュリティのアレまとめ"
-copyright = "2023, BerandaMegane"
+copyright = "2023, BerandaMegane (このサイトは CC-BY 4.0 のもとに提供されています)"
 author = "BerandaMegane"
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
@@ -56,7 +56,11 @@ html_theme_options = {
     "external_links": [
         {"name": "お問合せ", "url": "https://forms.gle/7adWctvUpwrNvZxD6"},
     ],
-  "footer_start": ["copyright", "last-updated", "sphinx-version"],
+    "footer_start": [
+        "last-updated",
+        "sphinx-version",
+        "copyright",
+    ],
 }
 
 # 出力先ディレクトリにコピーする追加ファイル
