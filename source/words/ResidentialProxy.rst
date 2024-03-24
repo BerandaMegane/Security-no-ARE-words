@@ -14,7 +14,7 @@ Residential Proxy
 
 * 利用例
 
-  * いわゆる `おま国 <https://dic.nicovideo.jp/a/%E3%81%8A%E3%81%BE%E5%9B%BD>`_ されているようなコンテンツにアクセスするとき
+  * GeoIP など IP アドレスをもとに `おま国 <https://dic.nicovideo.jp/a/%E3%81%8A%E3%81%BE%E5%9B%BD>`_ されているようなコンテンツにアクセスするとき
   * サイバー犯罪者っぽい人が、アクセス元を偽装するとき
 
 .. tip:: 
