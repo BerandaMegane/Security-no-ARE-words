@@ -31,6 +31,7 @@ Residential Proxy
 
 .. rubric:: 関連リンク
 
+* `Unveiling the depths of Residential Proxies providers - Sekoia.io Blog <https://blog.sekoia.io/unveiling-the-depths-of-residential-proxies-providers/>`_
 * `Residential IP Proxy サービスに悪用される住宅用ホストの調査 <https://www.kikn.fms.meiji.ac.jp/paper/2020/master/hanzawa/CSS_2019_hanzawa.pdf>`_
 * `SOMPO CYBER SECURITY 用語集 <https://www.sompocybersecurity.com/column/glossary/residential-proxy>`_
 

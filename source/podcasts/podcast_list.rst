@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#216
+     - `第216回 サイバーセキュリティ年間！スペシャル！ <https://www.tsujileaks.com/?p=1733>`_ 
+     - 2024月03月25日
    * - S3#215
      - `第215回 いわば！まさに！もはや！むしろ！スペシャル！ <https://www.tsujileaks.com/?p=1727>`_ 
      - 2024月03月18日
@@ -896,6 +899,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第216回 サイバーセキュリティ年間！スペシャル！: https://www.tsujileaks.com/?p=1733
+.. _S3#216: https://www.tsujileaks.com/?p=1733
 .. _第215回 いわば！まさに！もはや！むしろ！スペシャル！: https://www.tsujileaks.com/?p=1727
 .. _S3#215: https://www.tsujileaks.com/?p=1727
 .. _第214回 「何を今更」と「つもり」ならないクリアランス！スペシャル！: https://www.tsujileaks.com/?p=1717
