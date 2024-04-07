@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "セキュリティのアレまとめ"
-copyright = "2023, BerandaMegane (このサイトは CC-BY 4.0 のもとに提供されています)"
+copyright = "2023, BerandaMegane (CC-BY 4.0)"
 author = "BerandaMegane"
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
