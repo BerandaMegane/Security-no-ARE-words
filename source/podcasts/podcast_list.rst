@@ -28,6 +28,12 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#218
+     - `第218回 ペン！パン！アッポー！スペシャル！ <https://www.tsujileaks.com/?p=1745>`_ 
+     - 2024月04月14日
+   * - S3#217
+     - `第217回 毎日がスペシャル！おすすめはプレミアム！スペシャル！ <https://www.tsujileaks.com/?p=1739>`_ 
+     - 2024月04月08日
    * - S3#216
      - `第216回 サイバーセキュリティ年間！スペシャル！ <https://www.tsujileaks.com/?p=1733>`_ 
      - 2024月03月25日
@@ -899,6 +905,10 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第218回 ペン！パン！アッポー！スペシャル！: https://www.tsujileaks.com/?p=1745
+.. _S3#218: https://www.tsujileaks.com/?p=1745
+.. _第217回 毎日がスペシャル！おすすめはプレミアム！スペシャル！: https://www.tsujileaks.com/?p=1739
+.. _S3#217: https://www.tsujileaks.com/?p=1739
 .. _第216回 サイバーセキュリティ年間！スペシャル！: https://www.tsujileaks.com/?p=1733
 .. _S3#216: https://www.tsujileaks.com/?p=1733
 .. _第215回 いわば！まさに！もはや！むしろ！スペシャル！: https://www.tsujileaks.com/?p=1727
