@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#220
+     - `第220回 多要素認証の理想郷！Unknown多くて参ったなぁ！スペシャル！ <https://www.tsujileaks.com/?p=1757>`_ 
+     - 2024月04月29日
    * - S3#219
      - `第219回 歯がゆいのよ！その事例は！スペシャル！ <https://www.tsujileaks.com/?p=1750>`_ 
      - 2024月04月22日
@@ -908,6 +911,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第220回 多要素認証の理想郷！Unknown多くて参ったなぁ！スペシャル！: https://www.tsujileaks.com/?p=1757
+.. _S3#220: https://www.tsujileaks.com/?p=1757
 .. _第219回 歯がゆいのよ！その事例は！スペシャル！: https://www.tsujileaks.com/?p=1750
 .. _S3#219: https://www.tsujileaks.com/?p=1750
 .. _第218回 ペン！パン！アッポー！スペシャル！: https://www.tsujileaks.com/?p=1745
