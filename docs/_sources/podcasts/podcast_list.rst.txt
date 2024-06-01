@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#222
+     - `第222回 にゃーにゃーにゃー！スペシャル！ <https://www.tsujileaks.com/?p=1768>`_ 
+     - 2024月05月20日
    * - S3#221
      - `第221回 脆！スペシャル！ <https://www.tsujileaks.com/?p=1765>`_ 
      - 2024月05月13日
@@ -914,6 +917,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第222回 にゃーにゃーにゃー！スペシャル！: https://www.tsujileaks.com/?p=1768
+.. _S3#222: https://www.tsujileaks.com/?p=1768
 .. _第221回 脆！スペシャル！: https://www.tsujileaks.com/?p=1765
 .. _S3#221: https://www.tsujileaks.com/?p=1765
 .. _第220回 多要素認証の理想郷！Unknown多くて参ったなぁ！スペシャル！: https://www.tsujileaks.com/?p=1757
