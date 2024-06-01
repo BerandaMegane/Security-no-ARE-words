@@ -5,11 +5,11 @@
 ポッドキャストは2011年から続いており、長い歴史の中、「あれ？この話題って第何回で話したっけ？」といった形で振り返りたくなることがあります。また、過去の回を聴くことで、当時の反応にも触れることができます。  
 そこで、ポッドキャスト内で語られる話題・用語を個人的にまとめてみました。
 
+次の URL にて公開しています。  
+[https://are.bocchi-megane.dev - セキュリティのアレまとめ](https://are.bocchi-megane.dev)
+
 このサイトを作成するにあたって、mtaka 氏による [ゆる言語学ラジオ用語集](https://yurugengo.mtakagishi.com) を参考にしました。  
 ゆる言語学ラジオ用語集は、[MIT ライセンスにて公開](https://github.com/mtakagishi/yurugengo) されています。  
-
-## URL
-[セキュリティのアレまとめ](https://are.bocchi-megane.dev)
 
 ## 構成
 Sphinx を使って HTML ドキュメントを生成し、GitHub Pages で公開しています。
