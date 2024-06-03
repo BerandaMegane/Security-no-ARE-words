@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#223
+     - `第223回 投資詐欺にサプライチェーンにインフルエンスだ！スペシャル！ <https://www.tsujileaks.com/?p=1774>`_ 
+     - 2024月06月03日
    * - S3#222
      - `第222回 にゃーにゃーにゃー！スペシャル！ <https://www.tsujileaks.com/?p=1768>`_ 
      - 2024月05月20日
@@ -917,6 +920,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第223回 投資詐欺にサプライチェーンにインフルエンスだ！スペシャル！: https://www.tsujileaks.com/?p=1774
+.. _S3#223: https://www.tsujileaks.com/?p=1774
 .. _第222回 にゃーにゃーにゃー！スペシャル！: https://www.tsujileaks.com/?p=1768
 .. _S3#222: https://www.tsujileaks.com/?p=1768
 .. _第221回 脆！スペシャル！: https://www.tsujileaks.com/?p=1765
