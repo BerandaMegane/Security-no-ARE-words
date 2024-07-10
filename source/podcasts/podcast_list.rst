@@ -28,6 +28,15 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#226
+     - `第226回 合格と心も支え始めたポッドキャストだ！スペシャル！ <https://www.tsujileaks.com/?p=1789>`_ 
+     - 2024月07月08日
+   * - S3#225
+     - `第225回 システムだけでなく自分の健康にも気を付けよう！スペシャル！ <https://www.tsujileaks.com/?p=1786>`_ 
+     - 2024月07月02日
+   * - S3#224
+     - `第224回 来月公開収録があるんですよ！スペシャル！ <https://www.tsujileaks.com/?p=1779>`_ 
+     - 2024月06月24日
    * - S3#223
      - `第223回 投資詐欺にサプライチェーンにインフルエンスだ！スペシャル！ <https://www.tsujileaks.com/?p=1774>`_ 
      - 2024月06月03日
@@ -920,6 +929,12 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第226回 合格と心も支え始めたポッドキャストだ！スペシャル！: https://www.tsujileaks.com/?p=1789
+.. _S3#226: https://www.tsujileaks.com/?p=1789
+.. _第225回 システムだけでなく自分の健康にも気を付けよう！スペシャル！: https://www.tsujileaks.com/?p=1786
+.. _S3#225: https://www.tsujileaks.com/?p=1786
+.. _第224回 来月公開収録があるんですよ！スペシャル！: https://www.tsujileaks.com/?p=1779
+.. _S3#224: https://www.tsujileaks.com/?p=1779
 .. _第223回 投資詐欺にサプライチェーンにインフルエンスだ！スペシャル！: https://www.tsujileaks.com/?p=1774
 .. _S3#223: https://www.tsujileaks.com/?p=1774
 .. _第222回 にゃーにゃーにゃー！スペシャル！: https://www.tsujileaks.com/?p=1768
