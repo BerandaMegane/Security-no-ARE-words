@@ -2,8 +2,8 @@
 import csv
 import datetime
 import email
-import pprint
 import re
+import sys
 
 # サードパーティ
 import feedparser
@@ -171,6 +171,8 @@ def main():
     reader.close()
     temp_reader.close()
     writer.close()
-
+    
+    sys.exit(len(new_podcasts))
+        
 if __name__ == "__main__":
     main()
