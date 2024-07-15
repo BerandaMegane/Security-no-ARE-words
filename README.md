@@ -18,19 +18,27 @@ Sphinx を使って HTML ドキュメントを生成し、GitHub Pages で公開
 - 記事は reST 記法（reStrictiredText 記法）で記述します
 
 ## インストール
-Windows における Python 環境でのインストール方法です。Python については省略します。
+Python については省略します。
 
-```powershell
-# インストールスクリプト実行
+```
+# Windows
 .\install.ps1
+
+# Linux
+./install.sh
 ```
 
 ## ドキュメント生成（ビルド）
-ビルドを行うと、docs/html ディレクトリに HTML ドキュメントが生成されます。
+ビルドを行うと、docs ディレクトリに HTML ドキュメントが生成されます。
+
 ### 単純生成
 次のコマンドを実行します。
 ```
+# Windows
 .\make.bat html
+
+# Linux
+make html
 ```
 
 ### 自動リロード
@@ -39,6 +47,7 @@ Windows における Python 環境でのインストール方法です。Python 
 http://localhost:8000 にアクセスするとドキュメントを閲覧できます。
 
 ```
+# Windows
 .\make.bat preview
 ```
 
@@ -48,6 +57,6 @@ http://localhost:8000 にアクセスするとドキュメントを閲覧でき�
 CSVファイル [セキュリティのアレ_放送回リスト.csv](./_static/セキュリティのアレ_放送回リスト.csv) をもとに、テンプレートファイル [podcast_list.rst.template](./podcasts/podcast_list.rst.template) に表を挿入しています。
 
 ### ライブラリアップデート
-```powershell
+```
 pip-review --auto
 ```
