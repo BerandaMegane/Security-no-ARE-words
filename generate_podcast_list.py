@@ -143,7 +143,9 @@ def updatePodcastCSV(csv_path, new_podcasts):
                 update_index = i
 
         # 足りない回を追加する
+        append_cnt = 0
         for new_podcast in reversed(new_podcasts[:update_index]):
+            append_cnt += 1
             print("new podcast append", new_podcast)
             data = "%s,%s,%s,%s\n" % (new_podcast["ID"], new_podcast["タイトル"], new_podcast["公開日"], new_podcast["URL"])
             data_lines.insert(0, data)
@@ -151,11 +153,13 @@ def updatePodcastCSV(csv_path, new_podcasts):
     with open(csv_path, "w", encoding="utf-8") as csv:
         csv.write(header)
         csv.writelines(data_lines)
+    
+    return append_cnt
 
 def main():
     # 更新があれば CSV へ追加する
     new_podcasts = searchNewPodcasts()
-    updatePodcastCSV(in_csv_path, new_podcasts)
+    append_cnt = updatePodcastCSV(in_csv_path, new_podcasts)
 
     # CSVファイル
     reader = open(in_csv_path, "r", encoding="utf-8")
@@ -172,7 +176,7 @@ def main():
     temp_reader.close()
     writer.close()
     
-    sys.exit(len(new_podcasts))
+    sys.exit(append_cnt)
         
 if __name__ == "__main__":
     main()
