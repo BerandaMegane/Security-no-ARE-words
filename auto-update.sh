@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+echo "Security-no-ARE 新規ポッドキャストがあれば自動更新するスクリプト"
+
 # 仮想環境のアクティベート
 source venv/bin/activate
 
@@ -14,6 +16,9 @@ else
     echo "新規ポッドキャストが見つかりました"
     make html
 
+    # GitHub Push => GitHub Action で自動デプロイ
     git add ./source
     git add ./docs
+    git commit -m "auto commit"
+    git push origin main
 fi
