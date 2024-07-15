@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#227
+     - `第227回 地上波デビューは、また今度！スペシャル！ <https://www.tsujileaks.com/?p=1798>`_ 
+     - 2024月07月15日
    * - S3#226
      - `第226回 合格と心も支え始めたポッドキャストだ！スペシャル！ <https://www.tsujileaks.com/?p=1789>`_ 
      - 2024月07月08日
@@ -929,6 +932,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第227回 地上波デビューは、また今度！スペシャル！: https://www.tsujileaks.com/?p=1798
+.. _S3#227: https://www.tsujileaks.com/?p=1798
 .. _第226回 合格と心も支え始めたポッドキャストだ！スペシャル！: https://www.tsujileaks.com/?p=1789
 .. _S3#226: https://www.tsujileaks.com/?p=1789
 .. _第225回 システムだけでなく自分の健康にも気を付けよう！スペシャル！: https://www.tsujileaks.com/?p=1786
