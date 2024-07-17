@@ -15,7 +15,7 @@ help:
 .PHONY: help Makefile
 
 html: Makefile
-	rm -rf $(SPHINXBUILD)
+	rm -rf $(BUILDDIR)
 	@$(SPHINXBUILD) -b html "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 # Catch-all target: route all unknown targets to Sphinx using the new
