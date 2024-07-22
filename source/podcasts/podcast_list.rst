@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#228
+     - `第228回 ゴロゴロゴロゴロ！衝撃バリバリ！スペシャル！ <https://www.tsujileaks.com/?p=1808>`_ 
+     - 2024月07月22日
    * - S3#227
      - `第227回 地上波デビューは、また今度！スペシャル！ <https://www.tsujileaks.com/?p=1798>`_ 
      - 2024月07月15日
@@ -932,6 +935,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第228回 ゴロゴロゴロゴロ！衝撃バリバリ！スペシャル！: https://www.tsujileaks.com/?p=1808
+.. _S3#228: https://www.tsujileaks.com/?p=1808
 .. _第227回 地上波デビューは、また今度！スペシャル！: https://www.tsujileaks.com/?p=1798
 .. _S3#227: https://www.tsujileaks.com/?p=1798
 .. _第226回 合格と心も支え始めたポッドキャストだ！スペシャル！: https://www.tsujileaks.com/?p=1789
