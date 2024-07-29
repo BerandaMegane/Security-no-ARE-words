@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#229
+     - `第229回 ねぎつじの戸締まり！スペシャル！ <https://www.tsujileaks.com/?p=1816>`_ 
+     - 2024月07月29日
    * - S3#228
      - `第228回 ゴロゴロゴロゴロ！衝撃バリバリ！スペシャル！ <https://www.tsujileaks.com/?p=1808>`_ 
      - 2024月07月22日
@@ -935,6 +938,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第229回 ねぎつじの戸締まり！スペシャル！: https://www.tsujileaks.com/?p=1816
+.. _S3#229: https://www.tsujileaks.com/?p=1816
 .. _第228回 ゴロゴロゴロゴロ！衝撃バリバリ！スペシャル！: https://www.tsujileaks.com/?p=1808
 .. _S3#228: https://www.tsujileaks.com/?p=1808
 .. _第227回 地上波デビューは、また今度！スペシャル！: https://www.tsujileaks.com/?p=1798
