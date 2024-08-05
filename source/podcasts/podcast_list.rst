@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#230
+     - `第230回 日本一感じの良いセキュリティエンジニア目指してるんです！スペシャル！ <https://www.tsujileaks.com/?p=1822>`_ 
+     - 2024月08月05日
    * - S3#229
      - `第229回 ねぎつじの戸締まり！スペシャル！ <https://www.tsujileaks.com/?p=1816>`_ 
      - 2024月07月29日
@@ -938,6 +941,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第230回 日本一感じの良いセキュリティエンジニア目指してるんです！スペシャル！: https://www.tsujileaks.com/?p=1822
+.. _S3#230: https://www.tsujileaks.com/?p=1822
 .. _第229回 ねぎつじの戸締まり！スペシャル！: https://www.tsujileaks.com/?p=1816
 .. _S3#229: https://www.tsujileaks.com/?p=1816
 .. _第228回 ゴロゴロゴロゴロ！衝撃バリバリ！スペシャル！: https://www.tsujileaks.com/?p=1808
