@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#231
+     - `第231回 もう1つのKEVと情報窃取たち ～無限電池編～！スペシャル！ <https://www.tsujileaks.com/?p=1829>`_ 
+     - 2024月08月12日
    * - S3#230
      - `第230回 日本一感じの良いセキュリティエンジニア目指してるんです！スペシャル！ <https://www.tsujileaks.com/?p=1822>`_ 
      - 2024月08月05日
@@ -941,6 +944,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第231回 もう1つのKEVと情報窃取たち ～無限電池編～！スペシャル！: https://www.tsujileaks.com/?p=1829
+.. _S3#231: https://www.tsujileaks.com/?p=1829
 .. _第230回 日本一感じの良いセキュリティエンジニア目指してるんです！スペシャル！: https://www.tsujileaks.com/?p=1822
 .. _S3#230: https://www.tsujileaks.com/?p=1822
 .. _第229回 ねぎつじの戸締まり！スペシャル！: https://www.tsujileaks.com/?p=1816
