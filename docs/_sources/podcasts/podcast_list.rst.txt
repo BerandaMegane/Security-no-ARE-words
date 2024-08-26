@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#232
+     - `第232回 認証認可自画自賛！スペシャル！ <https://www.tsujileaks.com/?p=1836>`_ 
+     - 2024月08月25日
    * - S3#231
      - `第231回 もう1つのKEVと情報窃取たち ～無限電池編～！スペシャル！ <https://www.tsujileaks.com/?p=1829>`_ 
      - 2024月08月12日
@@ -944,6 +947,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第232回 認証認可自画自賛！スペシャル！: https://www.tsujileaks.com/?p=1836
+.. _S3#232: https://www.tsujileaks.com/?p=1836
 .. _第231回 もう1つのKEVと情報窃取たち ～無限電池編～！スペシャル！: https://www.tsujileaks.com/?p=1829
 .. _S3#231: https://www.tsujileaks.com/?p=1829
 .. _第230回 日本一感じの良いセキュリティエンジニア目指してるんです！スペシャル！: https://www.tsujileaks.com/?p=1822
