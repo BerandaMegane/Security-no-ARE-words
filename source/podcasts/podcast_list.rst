@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#233
+     - `第233回 いつも元気を毎日に！スペシャル！ <https://www.tsujileaks.com/?p=1842>`_ 
+     - 2024月09月09日
    * - S3#232
      - `第232回 認証認可自画自賛！スペシャル！ <https://www.tsujileaks.com/?p=1836>`_ 
      - 2024月08月25日
@@ -947,6 +950,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第233回 いつも元気を毎日に！スペシャル！: https://www.tsujileaks.com/?p=1842
+.. _S3#233: https://www.tsujileaks.com/?p=1842
 .. _第232回 認証認可自画自賛！スペシャル！: https://www.tsujileaks.com/?p=1836
 .. _S3#232: https://www.tsujileaks.com/?p=1836
 .. _第231回 もう1つのKEVと情報窃取たち ～無限電池編～！スペシャル！: https://www.tsujileaks.com/?p=1829
