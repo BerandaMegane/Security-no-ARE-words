@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#234
+     - `第234回 噛み対応！スペシャル！ <https://www.tsujileaks.com/?p=1845>`_ 
+     - 2024月09月16日
    * - S3#233
      - `第233回 いつも元気を毎日に！スペシャル！ <https://www.tsujileaks.com/?p=1842>`_ 
      - 2024月09月09日
@@ -950,6 +953,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第234回 噛み対応！スペシャル！: https://www.tsujileaks.com/?p=1845
+.. _S3#234: https://www.tsujileaks.com/?p=1845
 .. _第233回 いつも元気を毎日に！スペシャル！: https://www.tsujileaks.com/?p=1842
 .. _S3#233: https://www.tsujileaks.com/?p=1842
 .. _第232回 認証認可自画自賛！スペシャル！: https://www.tsujileaks.com/?p=1836
