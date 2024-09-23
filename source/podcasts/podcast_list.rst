@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#235
+     - `第235回 めっちゃ早口でええやん！胸熱なろうぜ！スペシャル！ <https://www.tsujileaks.com/?p=1850>`_ 
+     - 2024月09月23日
    * - S3#234
      - `第234回 噛み対応！スペシャル！ <https://www.tsujileaks.com/?p=1845>`_ 
      - 2024月09月16日
@@ -953,6 +956,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第235回 めっちゃ早口でええやん！胸熱なろうぜ！スペシャル！: https://www.tsujileaks.com/?p=1850
+.. _S3#235: https://www.tsujileaks.com/?p=1850
 .. _第234回 噛み対応！スペシャル！: https://www.tsujileaks.com/?p=1845
 .. _S3#234: https://www.tsujileaks.com/?p=1845
 .. _第233回 いつも元気を毎日に！スペシャル！: https://www.tsujileaks.com/?p=1842
