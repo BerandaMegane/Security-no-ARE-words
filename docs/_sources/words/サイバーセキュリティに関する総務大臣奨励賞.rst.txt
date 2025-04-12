@@ -4,7 +4,10 @@
   サイバーセキュリティに関する総務大臣奨励賞 : さ
 
 * 2017年（平成29年）より総務省が毎年、サイバーセキュリティ向上の観点から顕著な功績がある個人・団体を表彰している
-* 2017年度にpiyokango氏が個人として受賞したことが `S3#4`_ で報告された
+
+  * 現在は年度末に表彰されている
+
+* 2017年にpiyokango氏が個人として受賞したことが `S3#4`_ で報告された
 
   * piyokango氏受賞コメント（ `S3#4`_ より引用）
 
@@ -14,9 +17,10 @@
 
   * 受賞コメントに対しての辻氏「piyo謙虚ですね」
 
-* 2022年度にセキュリティのアレが団体として受賞したことが `S3#124`_ で報告された
+* 2021年度は、セキュリティのアレが団体として表彰されたことが `S3#124`_ で報告された
+* 2024年度は、根岸氏も実行委員として企画されている `Hardening Project <https://wasforum.jp/hardening-project/>`__ (ハードニング プロジェクト) が表彰されている
 
-下の画像は、総務省から贈られた、2022年記念トロフィー。（ `S3#136`_ より画像引用）
+下の画像は、2021年度の活動に対して総務省から贈られた2022年記念トロフィー。（ `S3#136`_ より画像引用）
 
 .. raw:: html
 
@@ -30,19 +34,25 @@
 
 .. rubric:: 関連リンク
 
-* 2017年度 piyokango氏 個人表彰
+* 2017年度 (平成29年度) piyokango氏 個人表彰
 
   * `総務省 - 平成29年度「電波の日・情報通信月間」記念中央式典における表彰 <https://www.soumu.go.jp/menu_news/s-news/01tsushin10_02000038.html>`_
   * `総務省 - 4　サイバーセキュリティに関する総務大臣奨励賞（別紙4） <https://www.soumu.go.jp/main_content/000486757.pdf>`_
   * `INTERNET Watch - セキュリティブログ「piyolog」の運営者が「サイバーセキュリティに関する総務大臣奨励賞」に選出 <https://internet.watch.impress.co.jp/docs/yajiuma/1062551.html>`_
   * `ITmedia - piyokango氏に総務大臣奨励賞　ブログ「piyolog」で「セキュリティ向上に貢献」 <https://www.itmedia.co.jp/news/articles/1705/30/news088.html>`_
 
-* 2022年度 セキュリティのアレ 団体表彰
+* 2021年度 (令和3年度) セキュリティのアレ 団体表彰
 
   * `総務省 - 「サイバーセキュリティに関する総務大臣奨励賞」表彰式（令和4年3月15日） <https://www.soumu.go.jp/photo_gallery/02koho03_03003831.html>`_
   * `総務省 - 「サイバーセキュリティに関する総務大臣奨励賞」の受賞者の公表 <https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00130.html>`_
   * `IIJ Engineers Blog - ポッドキャスト番組「セキュリティのアレ」が2021年度 総務大臣奨励賞を受賞──運営者のひとり、IIJ 根岸にインタビュー <https://eng-blog.iij.ad.jp/archives/12777>`_
   * `@IT - 「セキュリティのアレ」のリサーチャー3人が振り返る、「侵入されて当たり前」は本当に当たり前か？ <https://atmarkit.itmedia.co.jp/ait/articles/2207/14/news008.html>`_
+
+* 2024年度 (令和5年度) Hardening Project 団体表彰
+
+  * `総務省 - 「サイバーセキュリティに関する総務大臣奨励賞」表彰式（令和7年3月14日） <https://www.soumu.go.jp/photo_gallery/02koho03_03005147.html>`_
+  * `総務省 - 「サイバーセキュリティに関する総務大臣奨励賞」の受賞者の決定 <https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00235.html>`_
+  * `Hardening Project - プレスリリース: ハードニングプロジェクト、総務大臣奨励賞を受賞 <https://wasforum.jp/2025/03/mic-award-for-cybersecurity2025/>`_
 
 .. _S3#4: https://www.tsujileaks.com/?p=441
 .. _S3#124: https://www.tsujileaks.com/?p=1156
