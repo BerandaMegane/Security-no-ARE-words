@@ -54,7 +54,7 @@ http://localhost:8000 にアクセスするとドキュメントを閲覧でき�
 ### 放送回一覧リストの更新
 放送回一覧ページ（podcast_list.rst）は [generate_podcast_list.py](generate_podcast_list.py) によって生成しています。  
 新しい放送回があれば [generate_podcast_list.py](generate_podcast_list.py) を実行することで、自動的に一覧が更新されます。  
-CSVファイル [セキュリティのアレ_放送回リスト.csv](./_static/セキュリティのアレ_放送回リスト.csv) をもとに、テンプレートファイル [podcast_list.rst.template](./podcasts/podcast_list.rst.template) に表を挿入しています。
+CSVファイル [セキュリティのアレ_放送回リスト.csv](./source/_static/セキュリティのアレ_放送回リスト.csv) をもとに、テンプレートファイル [podcast_list.rst.template](./source/podcasts/podcast_list.rst.template) に表を挿入しています。
 
 ### ライブラリアップデート
 ```
