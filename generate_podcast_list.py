@@ -7,18 +7,21 @@ import sys
 
 # サードパーティ
 import feedparser
+import pprint
 
 """
-tsujileaks.com の RSS を読み込み、更新がアレば放送回リストを更新する。
+tsujileaks.com の RSS を読み込み、
+更新があれば放送回リスト（CSV形式, input_csv_path）を更新する。
 
-放送回リスト（CSV形式）を読み込み、
+放送回リストを元に
 reStructuredText形式のテーブル（list-table形式）の文字列を生成し、
-放送回一覧ページ（reST形式）に書き込む。
+テンプレートファイル（reST形式, template_rest_path）へ埋め込み、
+放送回一覧ページ（reST形式, output_rest_path）に書き込む。
 """
 
-in_csv_path = "./source/_static/セキュリティのアレ_放送回リスト.csv"
-temp_rest_path = "./source/podcasts/podcast_list.rst.template"
-out_rest_path = "./source/podcasts/podcast_list.rst"
+input_csv_path = "./source/_static/セキュリティのアレ_放送回リスト.csv"
+template_rest_path = "./source/podcasts/podcast_list.rst.template"
+output_rest_path = "./source/podcasts/podcast_list.rst"
 
 
 def write_file(reader, temp_reader, writer):
@@ -103,8 +106,8 @@ def searchNewPodcasts():
     for entry in rss.entries:
         # 直近の数回を調べる
         cnt += 1
-        if cnt > 5:
-            break
+        # if cnt > 5:
+        #     break
         
         # pprint.pprint(entry)
 
@@ -122,8 +125,8 @@ def searchNewPodcasts():
             "URL": url,
         })
 
-        # pprint.pprint(new_podcasts)
-    
+    # print("新規ポッドキャスト一覧")
+    # pprint.pprint(new_podcasts)
     return new_podcasts
 
 def updatePodcastCSV(csv_path, new_podcasts):
@@ -133,6 +136,7 @@ def updatePodcastCSV(csv_path, new_podcasts):
 
         # 残りはデータ
         data_lines = csv.readlines()
+        # CSVに記録された最新回
         first_data = data_lines[0]
 
         # 更新場所の特定
@@ -159,24 +163,17 @@ def updatePodcastCSV(csv_path, new_podcasts):
 def main():
     # 更新があれば CSV へ追加する
     new_podcasts = searchNewPodcasts()
-    append_cnt = updatePodcastCSV(in_csv_path, new_podcasts)
+    append_cnt = updatePodcastCSV(input_csv_path, new_podcasts)
 
     # CSVファイル
-    reader = open(in_csv_path, "r", encoding="utf-8")
-
-    # テンプレート用reSTファイル
-    temp_reader = open(temp_rest_path, "r", encoding="utf-8")
-
-    # 出力用reSTファイル
-    writer = open(out_rest_path, "w", encoding="utf-8")
-
-    write_file(reader, temp_reader, writer)
-
-    reader.close()
-    temp_reader.close()
-    writer.close()
-    
+    with open(input_csv_path, "r", encoding="utf-8") as input_csv:
+        # テンプレート用reSTファイル
+        with open(template_rest_path, "r", encoding="utf-8") as template_rest:
+            # 出力用reSTファイル
+            with open(output_rest_path, "w", encoding="utf-8") as output_rest:
+                # テンプレートファイルに放送回一覧を書き込む
+                write_file(input_csv, template_rest, output_rest)    
     sys.exit(append_cnt)
-        
+    
 if __name__ == "__main__":
     main()
