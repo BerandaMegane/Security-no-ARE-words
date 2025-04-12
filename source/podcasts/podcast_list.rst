@@ -28,6 +28,72 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#257
+     - `第257回 わくわくアレちゃんねる！スペシャル！ <https://www.tsujileaks.com/?p=1991>`_ 
+     - 2025月04月07日
+   * - S3#256
+     - `第256回 オンなのに0ff会だ！スペシャル！ <https://www.tsujileaks.com/?p=1984>`_ 
+     - 2025月03月25日
+   * - S3#255
+     - `第255回 名が体を表していこう！スペシャル！ <https://www.tsujileaks.com/?p=1979>`_ 
+     - 2025月03月18日
+   * - S3#254
+     - `第254回 FLASHBACK 温泉！スペシャル！ <https://www.tsujileaks.com/?p=1972>`_ 
+     - 2025月03月11日
+   * - S3#253
+     - `第253回 😻！スペシャル！ <https://www.tsujileaks.com/?p=1963>`_ 
+     - 2025月02月24日
+   * - S3#252
+     - `第252回 良い意味での「うちは大丈夫か？」もある！スペシャル！ <https://www.tsujileaks.com/?p=1958>`_ 
+     - 2025月02月17日
+   * - S3#251
+     - `第251回 祝！地上波デビューだ！スペシャル！ <https://www.tsujileaks.com/?p=1949>`_ 
+     - 2025月02月10日
+   * - S3#250
+     - `第250回 なんでも中に餅入れたらええねん！スペシャル！ <https://www.tsujileaks.com/?p=1941>`_ 
+     - 2025月02月04日
+   * - S3#249
+     - `第249回 準備8割おじさんだ！スペシャル！ <https://www.tsujileaks.com/?p=1937>`_ 
+     - 2025月01月28日
+   * - S3#248
+     - `第248回 ドンドンドン！ドンピ～♪スペシャル！ <https://www.tsujileaks.com/?p=1930>`_ 
+     -  2025年01月18日
+   * - S3#247
+     - `第247回 アレのアレが始まったんだぜ！スペシャル！ <https://www.tsujileaks.com/?p=1925>`_ 
+     -  2025年01月13日
+   * - S3#246
+     - `第246回 オレたちは共に歩んできたんだぜ！スペシャル！ <https://www.tsujileaks.com/?p=1920>`_ 
+     - 2024年12月21日
+   * - S3#245
+     - `第245回 サグラダ・ファミリアは完成したら築何年になんねん！スペシャル！ <https://www.tsujileaks.com/?p=1912>`_ 
+     - 2024年12月15日
+   * - S3#244
+     - `第244回 同音異義と昨年比較！スペシャル！ <https://www.tsujileaks.com/?p=1903>`_ 
+     - 2024年12月06日
+   * - S3#243
+     - `第243回 新旧、時を超えて！スペシャル！ <https://www.tsujileaks.com/?p=1898>`_ 
+     - 2024年11月30日
+   * - S3#242
+     - `第242回 諸事情によりメモは割愛だ！スペシャル！ <https://www.tsujileaks.com/?p=1893>`_ 
+     - 2024年11月24日
+   * - S3#241
+     - `第241回 我々は、予測しません！スペシャル！ <https://www.tsujileaks.com/?p=1887>`_ 
+     - 2024年11月17日
+   * - S3#240
+     - `第240回 新コーナーをよろしくお願いします！スペシャル！ <https://www.tsujileaks.com/?p=1881>`_ 
+     - 2024年11月10日
+   * - S3#239
+     - `第239回 各々のそれぞれのアレコレ！スペシャル！ <https://www.tsujileaks.com/?p=1876>`_ 
+     - 2024年11月02日
+   * - S3#238
+     - `第238回 足を運んでください！スペシャル！ <https://www.tsujileaks.com/?p=1870>`_ 
+     - 2024年10月26日
+   * - S3#237
+     - `第237回 んあぁ？！スペシャル！ <https://www.tsujileaks.com/?p=1863>`_ 
+     - 2024年10月06日
+   * - S3#236
+     - `第236回 そんなんあるんやがいっぱい！スペシャル！ <https://www.tsujileaks.com/?p=1857>`_ 
+     - 2024年09月28日
    * - S3#235
      - `第235回 めっちゃ早口でええやん！胸熱なろうぜ！スペシャル！ <https://www.tsujileaks.com/?p=1850>`_ 
      - 2024月09月23日
@@ -956,6 +1022,50 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第257回 わくわくアレちゃんねる！スペシャル！: https://www.tsujileaks.com/?p=1991
+.. _S3#257: https://www.tsujileaks.com/?p=1991
+.. _第256回 オンなのに0ff会だ！スペシャル！: https://www.tsujileaks.com/?p=1984
+.. _S3#256: https://www.tsujileaks.com/?p=1984
+.. _第255回 名が体を表していこう！スペシャル！: https://www.tsujileaks.com/?p=1979
+.. _S3#255: https://www.tsujileaks.com/?p=1979
+.. _第254回 FLASHBACK 温泉！スペシャル！: https://www.tsujileaks.com/?p=1972
+.. _S3#254: https://www.tsujileaks.com/?p=1972
+.. _第253回 😻！スペシャル！: https://www.tsujileaks.com/?p=1963
+.. _S3#253: https://www.tsujileaks.com/?p=1963
+.. _第252回 良い意味での「うちは大丈夫か？」もある！スペシャル！: https://www.tsujileaks.com/?p=1958
+.. _S3#252: https://www.tsujileaks.com/?p=1958
+.. _第251回 祝！地上波デビューだ！スペシャル！: https://www.tsujileaks.com/?p=1949
+.. _S3#251: https://www.tsujileaks.com/?p=1949
+.. _第250回 なんでも中に餅入れたらええねん！スペシャル！: https://www.tsujileaks.com/?p=1941
+.. _S3#250: https://www.tsujileaks.com/?p=1941
+.. _第249回 準備8割おじさんだ！スペシャル！: https://www.tsujileaks.com/?p=1937
+.. _S3#249: https://www.tsujileaks.com/?p=1937
+.. _第248回 ドンドンドン！ドンピ～♪スペシャル！: https://www.tsujileaks.com/?p=1930
+.. _S3#248: https://www.tsujileaks.com/?p=1930
+.. _第247回 アレのアレが始まったんだぜ！スペシャル！: https://www.tsujileaks.com/?p=1925
+.. _S3#247: https://www.tsujileaks.com/?p=1925
+.. _第246回 オレたちは共に歩んできたんだぜ！スペシャル！: https://www.tsujileaks.com/?p=1920
+.. _S3#246: https://www.tsujileaks.com/?p=1920
+.. _第245回 サグラダ・ファミリアは完成したら築何年になんねん！スペシャル！: https://www.tsujileaks.com/?p=1912
+.. _S3#245: https://www.tsujileaks.com/?p=1912
+.. _第244回 同音異義と昨年比較！スペシャル！: https://www.tsujileaks.com/?p=1903
+.. _S3#244: https://www.tsujileaks.com/?p=1903
+.. _第243回 新旧、時を超えて！スペシャル！: https://www.tsujileaks.com/?p=1898
+.. _S3#243: https://www.tsujileaks.com/?p=1898
+.. _第242回 諸事情によりメモは割愛だ！スペシャル！: https://www.tsujileaks.com/?p=1893
+.. _S3#242: https://www.tsujileaks.com/?p=1893
+.. _第241回 我々は、予測しません！スペシャル！: https://www.tsujileaks.com/?p=1887
+.. _S3#241: https://www.tsujileaks.com/?p=1887
+.. _第240回 新コーナーをよろしくお願いします！スペシャル！: https://www.tsujileaks.com/?p=1881
+.. _S3#240: https://www.tsujileaks.com/?p=1881
+.. _第239回 各々のそれぞれのアレコレ！スペシャル！: https://www.tsujileaks.com/?p=1876
+.. _S3#239: https://www.tsujileaks.com/?p=1876
+.. _第238回 足を運んでください！スペシャル！: https://www.tsujileaks.com/?p=1870
+.. _S3#238: https://www.tsujileaks.com/?p=1870
+.. _第237回 んあぁ？！スペシャル！: https://www.tsujileaks.com/?p=1863
+.. _S3#237: https://www.tsujileaks.com/?p=1863
+.. _第236回 そんなんあるんやがいっぱい！スペシャル！: https://www.tsujileaks.com/?p=1857
+.. _S3#236: https://www.tsujileaks.com/?p=1857
 .. _第235回 めっちゃ早口でええやん！胸熱なろうぜ！スペシャル！: https://www.tsujileaks.com/?p=1850
 .. _S3#235: https://www.tsujileaks.com/?p=1850
 .. _第234回 噛み対応！スペシャル！: https://www.tsujileaks.com/?p=1845
