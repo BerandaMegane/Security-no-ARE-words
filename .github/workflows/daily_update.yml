@@ -27,7 +27,7 @@ jobs:
       - name: Run update script
         run: |
           # ポッドキャスト更新の検出
-          python generate_podcast_list.py
+          python generate_podcast_list.py || true
           exit_code=$?
 
           if [ $exit_code -eq 0 ]; then
