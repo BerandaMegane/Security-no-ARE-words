@@ -11,10 +11,10 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://are.bocchi-megane.dev/words/%E3%81%8A%E4%BE%BF%E3%82%8A%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC.html" />
 <meta property="og:site_name" content="セキュリティのアレまとめ" />
-<meta property="og:description" content="お便りのコーナー,,. ポッドキャスト冒頭の雑談の後に挟まれる、リスナーの感想などを紹介するコーナー, 「お便り」とはついているがフォームが用意されている訳ではなく、現在は Twitter ハッシュタグ#セキュリティのアレ に寄せられる感想・質問を取り上げている, アレティ氏 が描いている アイキャッチ のネタも募集している（ S3#202 にて言及）, 読まれると、リスナーに DM でポッ..." />
+<meta property="og:description" content="お便りのコーナー,,. ポッドキャスト冒頭の雑談の後に挟まれる、リスナーの感想などを紹介するコーナー, 「お便り」とはついているがフォームが用意されている訳ではなく、現在は Twitter ハッシュタグ#セキュリティのアレ に寄せられる内容を取り上げたり、辻氏 Twitter@ntsuji への DM で寄せられたお便りを紹介している, 読まれると、リスナーに DM でポッドキャスト謹製 ア..." />
 <meta property="og:image" content="http://are.bocchi-megane.dev/ogp_image.png" />
 <meta property="og:image:alt" content="セキュリティのアレまとめ" />
-<meta name="description" content="お便りのコーナー,,. ポッドキャスト冒頭の雑談の後に挟まれる、リスナーの感想などを紹介するコーナー, 「お便り」とはついているがフォームが用意されている訳ではなく、現在は Twitter ハッシュタグ#セキュリティのアレ に寄せられる感想・質問を取り上げている, アレティ氏 が描いている アイキャッチ のネタも募集している（ S3#202 にて言及）, 読まれると、リスナーに DM でポッ..." />
+<meta name="description" content="お便りのコーナー,,. ポッドキャスト冒頭の雑談の後に挟まれる、リスナーの感想などを紹介するコーナー, 「お便り」とはついているがフォームが用意されている訳ではなく、現在は Twitter ハッシュタグ#セキュリティのアレ に寄せられる内容を取り上げたり、辻氏 Twitter@ntsuji への DM で寄せられたお便りを紹介している, 読まれると、リスナーに DM でポッドキャスト謹製 ア..." />
 
     <title>お便りのコーナー &#8212; セキュリティのアレまとめ</title>
   
@@ -39,6 +39,7 @@
 <link href="../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=8f2a1f02" />
+    <link rel="stylesheet" href="../_static/roles.css" type="text/css" />
   
   <!-- So that users can add custom icons -->
   <script src="../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
@@ -61,7 +62,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="ja"/>
   <meta name="docsearch:version" content="" />
-    <meta name="docbuild:last-update" content="2025-04-12T15:50+0900"/>
+    <meta name="docbuild:last-update" content="2025-05-04T12:34+0900"/>
   </head>
   
   
@@ -380,6 +381,7 @@
 <li class="toctree-l2"><a class="reference internal" href="ResidentialProxy.html">Residential Proxy</a></li>
 <li class="toctree-l2"><a class="reference internal" href="SBOM.html">SBOM</a></li>
 <li class="toctree-l2"><a class="reference internal" href="Seizurebanner.html">Seizure banner</a></li>
+<li class="toctree-l2"><a class="reference internal" href="VS%E6%A0%B9%E5%B2%B8%E3%81%A8VS%E3%81%8B%E3%82%93%E3%81%94.html">VS根岸とVSかんご</a></li>
 <li class="toctree-l2"><a class="reference internal" href="%E2%97%8B%E2%97%8B%E3%81%A8%E2%97%8B%E2%97%8B%E4%BB%A5%E5%A4%96%E3%81%8B%E3%82%89%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99.html">○○と○○以外</a></li>
 <li class="toctree-l2"><a class="reference internal" href="%E3%80%8C%E4%BE%B5%E5%85%A5%E5%89%8D%E6%8F%90%E3%80%8D%E5%89%8D%E6%8F%90.html">「侵入前提」前提</a></li>
 <li class="toctree-l2"><a class="reference internal" href="%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E3%82%A2%E3%83%AC.html">おすすめのアレ</a></li>
@@ -472,9 +474,16 @@
 </dl>
 <ul class="simple">
 <li><p>ポッドキャスト冒頭の雑談の後に挟まれる、リスナーの感想などを紹介するコーナー</p></li>
-<li><p>「お便り」とはついているがフォームが用意されている訳ではなく、現在は Twitter ハッシュタグ <a class="reference external" href="https://twitter.com/search?q=%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;src=typed_query&amp;f=live">#セキュリティのアレ</a> に寄せられる感想・質問を取り上げている</p></li>
-<li><p><a class="reference external" href="https://twitter.com/aren0_e">アレティ氏</a> が描いている <a class="reference internal" href="%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81.html"><span class="doc">アイキャッチ</span></a> のネタも募集している（ <a class="reference external" href="https://www.tsujileaks.com/?p=1643">S3#202</a> にて言及）</p></li>
+<li><p>「お便り」とはついているがフォームが用意されている訳ではなく、現在は Twitter ハッシュタグ <a class="reference external" href="https://twitter.com/search?q=%23%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC&amp;src=typed_query&amp;f=live">#セキュリティのアレ</a> に寄せられる内容を取り上げたり、辻氏 Twitter <a class="reference external" href="https://twitter.com/ntsuji">&#64;ntsuji</a> への DM で寄せられたお便りを紹介している</p></li>
 <li><p>読まれると、リスナーに DM でポッドキャスト謹製 <a class="reference internal" href="%E3%82%A2%E3%83%AC%E3%82%B9%E3%83%86%E3%83%83%E3%82%AB%E3%83%BC.html"><span class="doc">アレステッカー</span></a> がもらえる</p></li>
+<li><p>募集しているお便りの内容はこちら</p>
+<ul>
+<li><p>ポッドキャストの感想や質問</p></li>
+<li><p>アレ勢の活動報告（<a class="reference internal" href="%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86%E5%AE%89%E5%85%A8%E7%A2%BA%E4%BF%9D%E6%94%AF%E6%8F%B4%E5%A3%AB%E8%A9%A6%E9%A8%93.html"><span class="doc">情報処理安全確保支援士試験</span></a> や <a class="reference internal" href="CISSP.html"><span class="doc">CISSP</span></a> の合格報告など）</p></li>
+<li><p><a class="reference internal" href="VS%E6%A0%B9%E5%B2%B8%E3%81%A8VS%E3%81%8B%E3%82%93%E3%81%94.html"><span class="doc">VS根岸とVSかんご</span></a> の問題とその解答（ <a class="reference external" href="https://www.tsujileaks.com/?p=1881">S3#240</a> にて言及 ）</p></li>
+<li><p><a class="reference external" href="https://twitter.com/aren0_e">アレティ氏</a> が描いている <a class="reference internal" href="%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81.html"><span class="doc">アイキャッチ</span></a> のネタも募集している（ <a class="reference external" href="https://www.tsujileaks.com/?p=1643">S3#202</a> にて言及）</p></li>
+</ul>
+</li>
 </ul>
 <p class="rubric">関連ワード</p>
 <ul class="simple">
@@ -557,7 +566,7 @@
     <div class="footer-items__start">
       
         <div class="footer-item"><p class="last-updated">
-  最終更新: 2025-04-12T15:50+0900
+  最終更新: 2025-05-04T12:34+0900
   <br/>
 </p></div>
       

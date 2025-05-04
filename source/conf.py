@@ -6,6 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import sys
+
 project = "セキュリティのアレまとめ"
 copyright = "2023, BerandaMegane (CC-BY 4.0)"
 author = "BerandaMegane"
@@ -67,3 +69,8 @@ html_theme_options = {
 html_extra_path = [
     "CNAME",
 ]
+
+# sphinxcontrib_roles 向け設定
+sys.path += ['.']
+extensions += ['sphinxcontrib_roles']
+roles = {'strike': "text-decoration: line-through;"}

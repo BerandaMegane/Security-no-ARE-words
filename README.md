@@ -35,9 +35,11 @@ Python については省略します。
 次のコマンドを実行します。
 ```
 # Windows
+.\venv\Scripts\Activate.ps1
 .\make.bat html
 
 # Linux
+source venv/bin/activate
 make html
 ```
 
