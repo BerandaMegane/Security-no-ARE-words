@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#258
+     - `第258回 ʕ•ᴥ•  ʔ！スペシャル！ <https://www.tsujileaks.com/?p=1998>`_ 
+     - 2025月04月14日
    * - S3#257
      - `第257回 わくわくアレちゃんねる！スペシャル！ <https://www.tsujileaks.com/?p=1991>`_ 
      - 2025月04月07日
@@ -1022,6 +1025,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第258回 ʕ•ᴥ•  ʔ！スペシャル！: https://www.tsujileaks.com/?p=1998
+.. _S3#258: https://www.tsujileaks.com/?p=1998
 .. _第257回 わくわくアレちゃんねる！スペシャル！: https://www.tsujileaks.com/?p=1991
 .. _S3#257: https://www.tsujileaks.com/?p=1991
 .. _第256回 オンなのに0ff会だ！スペシャル！: https://www.tsujileaks.com/?p=1984
