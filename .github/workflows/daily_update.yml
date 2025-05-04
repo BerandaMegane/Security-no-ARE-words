@@ -44,6 +44,7 @@ jobs:
               git add ./docs
               git commit -m "auto commit"
               git push origin main
+              exit 0
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
