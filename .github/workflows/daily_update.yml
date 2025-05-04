@@ -27,12 +27,10 @@ jobs:
       - name: Run update script
         run: |
           # ポッドキャスト更新の検出
-          python generate_podcast_list.py || true
-          exit_code=$?
+          result=$(python generate_podcast_list.py)
 
-          if [ $exit_code -eq 0 ]; then
+          if [[ "$result" == "0" ]]; then
               echo "新規ポッドキャストはありません"
-              exit 0
           else
               echo "新規ポッドキャストが見つかりました"
               make html
@@ -44,7 +42,6 @@ jobs:
               git add ./docs
               git commit -m "auto commit"
               git push origin main
-              exit 0
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
