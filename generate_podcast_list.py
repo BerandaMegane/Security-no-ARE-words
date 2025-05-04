@@ -150,7 +150,7 @@ def updatePodcastCSV(csv_path, new_podcasts):
         append_cnt = 0
         for new_podcast in reversed(new_podcasts[:update_index]):
             append_cnt += 1
-            print("new podcast append", new_podcast)
+            # print("new podcast append", new_podcast)
             data = "%s,%s,%s,%s\n" % (new_podcast["ID"], new_podcast["タイトル"], new_podcast["公開日"], new_podcast["URL"])
             data_lines.insert(0, data)
 
@@ -173,7 +173,7 @@ def main():
             with open(output_rest_path, "w", encoding="utf-8") as output_rest:
                 # テンプレートファイルに放送回一覧を書き込む
                 write_file(input_csv, template_rest, output_rest)    
-    sys.exit(append_cnt)
+    print(append_cnt)
     
 if __name__ == "__main__":
     main()
