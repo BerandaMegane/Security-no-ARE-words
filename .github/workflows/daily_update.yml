@@ -1,0 +1,45 @@
+name: Daily Podcast Update
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'  # 例: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run update script
+        run: |
+          # ポッドキャスト更新の検出
+          python generate_podcast_list.py
+          exit_code=$?
+
+          if [ $exit_code -eq 0 ]; then
+              echo "新規ポッドキャストはありません"
+              exit 0
+          else
+              echo "新規ポッドキャストが見つかりました"
+              make html
+
+              git config user.name "github-actions[bot]"
+              git config user.email "github-actions[bot]@users.noreply.github.com"
+
+              git add ./source
+              git add ./docs
+              git commit -m "auto commit"
+              git push origin main
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
