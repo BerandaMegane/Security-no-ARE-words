@@ -26,14 +26,16 @@ jobs:
       - name: Run update script
         run: |
           # ポッドキャスト更新の検出
-          result=$(python generate_podcast_list.py)
-          echo "result: $result"
+          result=$(python generate_podcast_list.py 2>&1 >/tmp/output.log)
+          cat /tmp/output.log  # 標準出力をそのままログに流す
+          count=$(cat /tmp/output.log | tail -n 1)  # 最後の行を取得（数字の出力）
+          echo "Podcast count: $count"
 
-          if [ $result -eq 0 ]; then
+          if [ "$count" -eq 0 ]; then
               echo "新規ポッドキャストはありません"
           else
               echo "新規ポッドキャストが見つかりました"
-              temp=$(make html) || 0
+              ( make html ) || echo "make html failed but continuing"
 
               git config user.name "github-actions[bot]"
               git config user.email "github-actions[bot]@users.noreply.github.com"
