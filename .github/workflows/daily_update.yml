@@ -27,6 +27,7 @@ jobs:
         run: |
           # ポッドキャスト更新の検出
           result=$(python generate_podcast_list.py)
+          echo "result: $result"
 
           if [[ "$result" == "0" ]]; then
               echo "新規ポッドキャストはありません"
