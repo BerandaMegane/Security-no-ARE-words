@@ -2,8 +2,6 @@ name: Daily Podcast Update
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'  # 毎日0時に実行
 
 permissions:
   contents: write
@@ -30,12 +28,12 @@ jobs:
           # ポッドキャスト更新の検出
           result=$(python generate_podcast_list.py)
           echo "result: $result"
-          
-          if [[ "$result" == "0" ]]; then
+
+          if [ $result -eq 0 ]; then
               echo "新規ポッドキャストはありません"
           else
               echo "新規ポッドキャストが見つかりました"
-              temp=$(make html) || 1
+              temp=$(make html) || 0
 
               git config user.name "github-actions[bot]"
               git config user.email "github-actions[bot]@users.noreply.github.com"
