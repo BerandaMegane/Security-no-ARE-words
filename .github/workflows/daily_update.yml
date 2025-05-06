@@ -3,7 +3,7 @@ name: Daily Podcast Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'  # 毎時0分に実行 
+    - cron: '0 */12 * * *'  # 12時間ごとに実行 
 
 permissions:
   contents: write
