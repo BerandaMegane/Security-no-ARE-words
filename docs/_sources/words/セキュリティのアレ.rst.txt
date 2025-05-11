@@ -47,9 +47,11 @@
 * `Google Podcasts <https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudHN1amlsZWFrcy5jb20vP2ZlZWQ9cG9kY2FzdA>`_
 * `Amazon Music <https://music.amazon.co.jp/podcasts/006aad18-d823-4b3a-8463-1c28009ad411/podcast-%E2%80%93-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC>`_
 * `YouTube Music <https://music.youtube.com/playlist?list=PLd1GE1sHAoR9fxkxvLuPaMuaSXUlmozu8>`_
-* `LISTEN <https://listen.style/p/sec_are>`_
+* LISTEN
 
   * LISTEN (listen.style) はポッドキャストの音声を文字起こししてくれるサービスのため、話題を検索したいときに便利
+  * `セキュリティのアレ <https://listen.style/p/sec_are>`_ (第249回まで)
+  * `セキュリティのアレ <https://listen.style/p/security_no_are>`_ (第250回以降)
 
 
 現在の出演者

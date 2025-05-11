@@ -50,6 +50,7 @@ http://localhost:8000 にアクセスするとドキュメントを閲覧でき�
 
 ```
 # Windows
+.\venv\Scripts\Activate.ps1
 .\make.bat preview
 ```
 
