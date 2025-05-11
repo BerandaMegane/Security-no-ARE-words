@@ -49,13 +49,11 @@ VS piyokango （第242回 アレ勢が初出題）
   | 警察庁の `令和5年におけるサイバー空間をめぐる脅威の情勢等 <https://www.npa.go.jp/publications/statistics/cybersecurity/data/R5/R05_cyber_jousei.pdf>`_ から出題です。
   | 令和5年中における不正アクセス禁止法違反のうち、識別符号窃用型の検挙件数は475件でした。
   | この475件中、識別符号を知り得る立場にあった元従業員や知人等による犯行の検挙件数は何件だったでしょうか。
-
-
-選択肢
-
-1. 34件
-2. 68件
-3. 136件
+  |
+  | 選択肢
+  | 1. 34件
+  | 2. 68件
+  | 3. 136件
 
 問題の答えに対して、出題者からの一言メッセージ
 
@@ -74,12 +72,11 @@ VS piyokango （第245回）
   | ぶっぱ！
   | piyokango さんと言えば `piyolog <https://piyolog.hatenadiary.jp/>`_ なので、piyolog に関する問題です。
   | 次の3つの記事を投稿された年月日が古い順番に並べてください。 
-
-選択肢
-
-A. `ドコモ口座を悪用した不正送金についてまとめてみた <https://piyolog.hatenadiary.jp/entry/2020/09/08/054431>`_
-B. `WPA2の脆弱性KRACKsについてまとめてみた <https://piyolog.hatenadiary.jp/entry/20171016/1488907259>`_
-C. `Shellshockの影響が及ぶケースをまとめてみた <https://piyolog.hatenadiary.jp/entry/20140928/1411939683>`_
+  | 
+  | 選択肢
+  | A. `ドコモ口座を悪用した不正送金についてまとめてみた <https://piyolog.hatenadiary.jp/entry/2020/09/08/054431>`_
+  | B. `WPA2の脆弱性KRACKsについてまとめてみた <https://piyolog.hatenadiary.jp/entry/20171016/1488907259>`_
+  | C. `Shellshockの影響が及ぶケースをまとめてみた <https://piyolog.hatenadiary.jp/entry/20140928/1411939683>`_
 
 
 VS 根岸 （第245回）
@@ -99,12 +96,11 @@ VS piyokango （第252回）
 
   | 2016年に発売された、辻さんのセキュリティ特集記事が8ページ掲載された伝説| の anan から出題です。
   | 記事中で、辻さんの肩書は何だったでしょうか？
-
-選択肢
-
-1. セキュリティナイト
-2. セキュリティプリンス
-3. セキュリティヒーロー 
+  | 
+  | 選択肢
+  | 1. セキュリティナイト
+  | 2. セキュリティプリンス
+  | 3. セキュリティヒーロー 
 
 ひっかけヒント
 
