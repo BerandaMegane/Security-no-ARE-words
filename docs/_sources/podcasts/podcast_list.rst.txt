@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#260
+     - `第260回 いたしかゆしいとしこいし！スペシャル！ <https://www.tsujileaks.com/?p=2011>`_ 
+     - 2025月05月12日
    * - S3#259
      - `第259回 KEVと軽EV！トリアージと取り回し！スペシャル！ <https://www.tsujileaks.com/?p=2005>`_ 
      - 2025月05月05日
@@ -1028,6 +1031,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第260回 いたしかゆしいとしこいし！スペシャル！: https://www.tsujileaks.com/?p=2011
+.. _S3#260: https://www.tsujileaks.com/?p=2011
 .. _第259回 KEVと軽EV！トリアージと取り回し！スペシャル！: https://www.tsujileaks.com/?p=2005
 .. _S3#259: https://www.tsujileaks.com/?p=2005
 .. _第258回 ʕ•ᴥ•  ʔ！スペシャル！: https://www.tsujileaks.com/?p=1998
