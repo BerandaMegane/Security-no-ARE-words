@@ -28,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#261
+     - `第261回 5月の第1木曜日と5月12日は何の日？スペシャル！ <https://www.tsujileaks.com/?p=2015>`_ 
+     - 2025月05月19日
    * - S3#260
      - `第260回 いたしかゆしいとしこいし！スペシャル！ <https://www.tsujileaks.com/?p=2011>`_ 
      - 2025月05月12日
@@ -1031,6 +1034,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第261回 5月の第1木曜日と5月12日は何の日？スペシャル！: https://www.tsujileaks.com/?p=2015
+.. _S3#261: https://www.tsujileaks.com/?p=2015
 .. _第260回 いたしかゆしいとしこいし！スペシャル！: https://www.tsujileaks.com/?p=2011
 .. _S3#260: https://www.tsujileaks.com/?p=2011
 .. _第259回 KEVと軽EV！トリアージと取り回し！スペシャル！: https://www.tsujileaks.com/?p=2005
