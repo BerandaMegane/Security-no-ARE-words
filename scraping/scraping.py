@@ -1,7 +1,7 @@
 # 公式
 import datetime
+import json
 import re
-import time
 
 # サードパーティ
 from bs4 import BeautifulSoup
@@ -15,7 +15,7 @@ import requests
 def are_search():
     are_list = list()
     
-    end_page = 22
+    end_page = 30
     for page in range(1, end_page+1):
         url = "https://www.tsujileaks.com/?cat=3&paged=%d" % page
         response = requests.get(url)
@@ -32,6 +32,8 @@ def are_page_search(response):
 
         # 日付のタイムゾーン
         JST = datetime.timezone(datetime.timedelta(hours=9), "JST")
+
+        # print(post)
 
         # title
         storytitle = post.find("h2", class_="storytitle")
@@ -56,26 +58,80 @@ def are_page_search(response):
                 month = int(match.group(2))
                 day = int(match.group(3))
                 
-                recorded = datetime.datetime(year, month, day, tzinfo=JST)
+                recorded = datetime.date(year, month, day)
         except:
-            recorded = datetime.datetime(1900, 1, 1, tzinfo=JST)
+            recorded = datetime.date(1900, 1, 1)
         
+        # ポッドキャスト音声
+        try:        
+            audio = post.find("a", class_="powerpress_link_d").get("href")
+        except:
+            audio = ""
+
+        # ポッドキャスト画像
+        try:
+            image = post.find("img").get("src")
+        except:
+            image = ""
+
+        # 放送回の情報を辞書に格納
         are = {
             "num": num,
             "title": title,
             "url": url,
-            "published": published,
-            "recorded": recorded,
+            "published_datetime": published,
+            "recorded_date": recorded,
+            "audio_url": audio,
+            "image_url": image
         }
         # print(are)
         are_list.append(are)
     return are_list
 
-def output(are_list):
-    print("num",",", "title",",", "published",",", "recorded",",", "url")
+# シンプルな CSV 出力
+def output_csv(are_list, filename):
+    with open(filename, "w", encoding="utf-8") as f:
+        # ヘッダー
+        f.write("num,title,published_datetime,recorded_date,url,audio_url,image_url\n")
+        for are in are_list:
+            f.write(
+                str(are["num"]) + "," +
+                are["title"] + "," +
+                are["published_datetime"].isoformat(timespec="minutes") + "," +
+                are["recorded_date"].isoformat() + "," +
+                are["url"] + "," +
+                are["audio_url"] + "," +
+                are["image_url"] + "\n"
+            )
+
+# エクセル向け CSV 出力
+def output_csv_excel(are_list, filename):
+    with open(filename, "w", encoding="utf-8-sig") as f:
+        # ヘッダー
+        f.write("num,title,published_datetime,recorded_date,url,audio_url,image_url\n")
+        for are in are_list:
+            f.write(
+                str(are["num"]) + "," +
+                '"' + are["title"].replace('"', '""') + '",' +
+                '"' + are["published_datetime"].strftime("%Y-%m-%d %H:%M") + '",' +
+                '"' + are["recorded_date"].isoformat() + '",' +
+                '"' + are["url"] + '",' +
+                '"' + are["audio_url"] + '",' +
+                '"' + are["image_url"] + '"\n'
+            )
+
+# JSON 出力
+def output_json(are_list, filename):
     for are in are_list:
-        print(are["num"],",", are["title"],",", are["published"].strftime("%Y-%m-%d %H:%M"),",", are["recorded"].strftime("%Y-%m-%d", ),",", are["url"])
+        # datetimeをISOフォーマットの文字列に変換
+        are["published_datetime"] = are["published_datetime"].isoformat(timespec="minutes")
+        are["recorded_date"] = are["recorded_date"].isoformat()
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(are_list, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     are_list = are_search()
-    output(are_list)
+    today = datetime.date.today().isoformat()
+    output_csv(are_list, "scraping_" + today + "_simple.csv")
+    output_csv_excel(are_list, "scraping_" + today + "_excel.csv")
+    output_json(are_list, "scraping_" + today + ".json")
