@@ -15,7 +15,7 @@ import requests
 def are_search():
     are_list = list()
     
-    end_page = 30
+    end_page = 1
     for page in range(1, end_page+1):
         url = "https://www.tsujileaks.com/?cat=3&paged=%d" % page
         response = requests.get(url)

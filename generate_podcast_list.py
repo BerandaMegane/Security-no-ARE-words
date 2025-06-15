@@ -8,6 +8,8 @@ import sys
 # サードパーティ
 import feedparser
 import pprint
+from bs4 import BeautifulSoup
+import requests
 
 """
 tsujileaks.com の RSS を読み込み、
@@ -57,9 +59,9 @@ def write_table(reader, writer):
     reader.seek(0)
     csv_reader = csv.DictReader(reader)
     for row in csv_reader:
-        writer.write("   * - %s\n"    % (row["ID"]))
-        writer.write("     - `%s <%s>`_ \n" % (row["タイトル"], row["URL"]))
-        writer.write("     - %s\n"    % (row["公開日"]))
+        writer.write("   * - %s\n"    % (row["id"]))
+        writer.write("     - `%s <%s>`_ \n" % (row["title"], row["url"]))
+        writer.write("     - %s\n"    % (row["published_datetime"]))
 
 def write_url_long_ref(reader, writer):
     """次のような長い形式でURL参照を貼り付ける
@@ -68,7 +70,7 @@ def write_url_long_ref(reader, writer):
     reader.seek(0)
     csv_reader = csv.DictReader(reader)
     for row in csv_reader:
-        writer.write(".. _%s: %s\n" % (row["タイトル"], row["URL"]))
+        writer.write(".. _%s: %s\n" % (row["title"], row["url"]))
 
 def write_url_short_ref(reader, writer):
     """次のような短い形式でURL参照を貼り付ける
@@ -77,7 +79,7 @@ def write_url_short_ref(reader, writer):
     reader.seek(0)
     csv_reader = csv.DictReader(reader)
     for row in csv_reader:
-        writer.write(".. _%s: %s\n" % (row["ID"], row["URL"]))
+        writer.write(".. _%s: %s\n" % (row["id"], row["url"]))
 
 def write_url_ref(reader, writer):
     """次のような形式でURL参照を貼り付ける
@@ -87,49 +89,106 @@ def write_url_ref(reader, writer):
     reader.seek(0)
     csv_reader = csv.DictReader(reader)
     for row in csv_reader:
-        writer.write(".. _%s: %s\n" % (row["タイトル"], row["URL"]))
-        writer.write(".. _%s: %s\n" % (row["ID"], row["URL"]))
+        writer.write(".. _%s: %s\n" % (row["title"], row["url"]))
+        writer.write(".. _%s: %s\n" % (row["id"], row["url"]))
 
 def parse_RFC2822_datetime(date_str_rfc2822: str):
     """RFC2822形式をパースする"""
     timetuple = email.utils.parsedate_tz(date_str_rfc2822)
-    JST = datetime.timezone(datetime.timedelta(hours=9), "JST")
-    date = datetime.datetime(*timetuple[:7], tzinfo=JST)
+    timedelta = datetime.timedelta(hours=9)
+    JST = datetime.timezone(timedelta, "JST")
+    date = datetime.datetime(*timetuple[:7], tzinfo=JST) + timedelta
     return date
 
-def searchNewPodcasts():
+def search_new_podcasts():
+    # tsujileaks.com の RSS フィードを読み込み、最新のポッドキャスト情報を取得する
     rss = feedparser.parse("https://www.tsujileaks.com/?feed=rss2")
-
     new_podcasts = list()
     
     cnt = 0
     for entry in rss.entries:
         # 直近の数回を調べる
         cnt += 1
-        # if cnt > 5:
+        # if cnt >= 2:
         #     break
         
-        # pprint.pprint(entry)
-
-        title = entry.title
-        match = re.search(r'\d+', title)
-        podcast_id = "S3#" + match.group()
+        # tsujileaks.com の URL 取得
         url = entry.link
-        published_dt = parse_RFC2822_datetime(entry.published)
-
-        # print(podcast_id, title, published_dt, url)
-        new_podcasts.append({
-            "ID": podcast_id,
-            "タイトル": title,
-            "公開日": published_dt.strftime(r"%Y月%m月%d日"),
-            "URL": url,
-        })
+        # ポッドキャストの情報を取得
+        podcast_info = fetch_podcast_info(url)
+        # 格納
+        new_podcasts.append(podcast_info)
 
     # print("新規ポッドキャスト一覧")
     # pprint.pprint(new_podcasts)
     return new_podcasts
 
-def updatePodcastCSV(csv_path, new_podcasts):
+
+def fetch_podcast_info(are_url):
+    """
+    指定されたURLからポッドキャストの情報を取得する
+    """
+
+    response = requests.get(are_url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    posts = soup.find_all('div', class_="post")
+    post = posts[0]  # 最初のポストを取得
+
+    # 日付のタイムゾーン
+    JST = datetime.timezone(datetime.timedelta(hours=9), "JST")
+
+    # タイトル title
+    storytitle = post.find("h2", class_="storytitle")
+    title = storytitle.getText()
+    
+    # 放送回 num
+    num = int(title.split("回")[0][1:])
+
+    # 公開日 published_datetime
+    published = post.find("b", class_="published")["title"]
+    try:
+        published = datetime.datetime.fromisoformat(published)
+    except:
+        published = datetime.datetime(1900, 1, 1, tzinfo=JST)
+    
+    # 収録日 recorded_date
+    try:
+        pattern = r'(\d{4})年(\d{2})月(\d{2})日'
+        match_text = post.find("p", string=re.compile(pattern))
+        match = re.search(pattern, match_text.getText())
+        if match:
+            year = int(match.group(1))
+            month = int(match.group(2))
+            day = int(match.group(3))
+            recorded = datetime.date(year, month, day)
+    except:
+        recorded = datetime.date(1900, 1, 1)
+    
+    # ポッドキャスト音声 audio_url
+    try:        
+        audio = post.find("a", class_="powerpress_link_d").get("href")
+    except:
+        audio = ""
+
+    # ポッドキャスト画像 image_url
+    try:
+        image = post.find("img").get("src")
+    except:
+        image = ""
+
+    return {
+        "season": 3,
+        "id": "S3#%d" % num,
+        "num": num,
+        "title": title,
+        "url": are_url,
+        "published_datetime": published,
+        "recorded_date": recorded,
+        "audio_url": audio,
+        "image_url": image
+    }    
+
+def update_podcast_csv(csv_path, new_podcasts):
     with open(csv_path, "r", encoding="utf-8") as csv:
         # 最初の行はヘッダ
         header = csv.readline()
@@ -143,7 +202,7 @@ def updatePodcastCSV(csv_path, new_podcasts):
         update_index = 0
         for i in range(len(new_podcasts)-1, 0, -1):
             # print(first_data, new_podcasts[i]["ID"])
-            if new_podcasts[i]["ID"] in first_data:
+            if new_podcasts[i]["id"] in first_data:
                 update_index = i
 
         # 足りない回を追加する
@@ -151,7 +210,17 @@ def updatePodcastCSV(csv_path, new_podcasts):
         for new_podcast in reversed(new_podcasts[:update_index]):
             append_cnt += 1
             print("new podcast append", new_podcast, file=sys.stderr)
-            data = "%s,%s,%s,%s\n" % (new_podcast["ID"], new_podcast["タイトル"], new_podcast["公開日"], new_podcast["URL"])
+            data = "%d,%d,%s,%s,%s,%s,%s,%s,%s\n" % (
+                new_podcast["season"],
+                new_podcast["num"],
+                new_podcast["id"],
+                new_podcast["title"],
+                new_podcast["published_datetime"].isoformat(timespec="minutes"),
+                new_podcast["recorded_date"].isoformat(),
+                new_podcast["url"],
+                new_podcast["audio_url"],
+                new_podcast["image_url"],
+            )
             data_lines.insert(0, data)
 
     with open(csv_path, "w", encoding="utf-8") as csv:
@@ -162,8 +231,8 @@ def updatePodcastCSV(csv_path, new_podcasts):
 
 def main():
     # 更新があれば CSV へ追加する
-    new_podcasts = searchNewPodcasts()
-    append_cnt = updatePodcastCSV(input_csv_path, new_podcasts)
+    new_podcasts = search_new_podcasts()
+    append_cnt = update_podcast_csv(input_csv_path, new_podcasts)
 
     # CSVファイル
     with open(input_csv_path, "r", encoding="utf-8") as input_csv:
