@@ -18,15 +18,7 @@
   * `@IT - 連載トップ「セキュリティのアレ」 <https://atmarkit.itmedia.co.jp/ait/subtop/features/ait/are.html>`_
 
 * アレの歴史については :doc:`history` にて紹介しています
-* 放送回一覧 (簡易) は、スクレイピングによって自動更新しています
-
-  * 自動更新する Python スクリプトは `GitHub リポジトリ <https://github.com/BerandaMegane/Security-no-ARE-words/blob/main/generate_podcast_list.py>`_ で公開しています
-  * ダウンロードできます (自動更新) :download:`CSV形式 放送回リスト（BOMなしUTF-8） </_static/セキュリティのアレ_放送回リスト.csv>`
-
-* 放送回一覧 (詳細) は、手動で更新しています
-
-  * スクレイピングする Python スクリプトは `GitHub リポジトリ <https://github.com/BerandaMegane/Security-no-ARE-words/blob/main/generate_podcast_list.py>`_ で公開しています
-  * ダウンロードできます (手動更新: 2025-06-07) :download:`Excel形式 放送回リスト </_static/セキュリティのアレ_放送回リスト.xlsx>`
+* 一覧をダウンロードできます :download:`CSV形式 放送回リスト（BOMなしUTF-8） </_static/セキュリティのアレ_放送回リスト.csv>`
 
 .. 自動生成箇所 ここから
 .. list-table:: 放送回一覧
@@ -36,6 +28,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#263
+     - `第263回 コレではないアレのこっちパターン！スペシャル！ <https://www.tsujileaks.com/?p=2031>`_ 
+     - 2025月06月09日
    * - S3#262
      - `第262回 素晴らしき授かりものと頂きもの！スペシャル！ <https://www.tsujileaks.com/?p=2021>`_ 
      - 2025月05月26日
@@ -1045,6 +1040,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第263回 コレではないアレのこっちパターン！スペシャル！: https://www.tsujileaks.com/?p=2031
+.. _S3#263: https://www.tsujileaks.com/?p=2031
 .. _第262回 素晴らしき授かりものと頂きもの！スペシャル！: https://www.tsujileaks.com/?p=2021
 .. _S3#262: https://www.tsujileaks.com/?p=2021
 .. _第261回 5月の第1木曜日と5月12日は何の日？スペシャル！: https://www.tsujileaks.com/?p=2015
