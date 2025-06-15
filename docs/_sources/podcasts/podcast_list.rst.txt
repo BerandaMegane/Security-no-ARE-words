@@ -36,6 +36,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#263
+     - `第263回 コレではないアレのこっちパターン！スペシャル！ <https://www.tsujileaks.com/?p=2031>`_ 
+     - 2025月06月09日
    * - S3#262
      - `第262回 素晴らしき授かりものと頂きもの！スペシャル！ <https://www.tsujileaks.com/?p=2021>`_ 
      - 2025月05月26日
@@ -1045,6 +1048,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011年2月21日
 
+.. _第263回 コレではないアレのこっちパターン！スペシャル！: https://www.tsujileaks.com/?p=2031
+.. _S3#263: https://www.tsujileaks.com/?p=2031
 .. _第262回 素晴らしき授かりものと頂きもの！スペシャル！: https://www.tsujileaks.com/?p=2021
 .. _S3#262: https://www.tsujileaks.com/?p=2021
 .. _第261回 5月の第1木曜日と5月12日は何の日？スペシャル！: https://www.tsujileaks.com/?p=2015
