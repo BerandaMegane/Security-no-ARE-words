@@ -1,7 +1,7 @@
 セキュリティのアレ 放送回一覧
 ===============================
 
-.. 放送回一覧を更新するときは、 セキュリティのアレ_放送回リスト.csv を更新する
+.. 放送回一覧を更新するときは、 セキュリティのアレ_放送回リスト_自動更新.csv を更新する
 .. 記事の修正するときは、 podcast_list.rst.template を編集する
 .. そして、 generate_podcast_list.py を実行する
 
@@ -21,8 +21,8 @@
 * 放送回一覧は、スクレイピングによって自動更新しています
 
   * 自動更新する Python スクリプトは `GitHub リポジトリ <https://github.com/BerandaMegane/Security-no-ARE-words/blob/main/generate_podcast_list.py>`_ で公開しています
-  * ダウンロードできます (自動更新) :download:`CSV形式 放送回リスト（BOMなしUTF-8） </_static/セキュリティのアレ_放送回リスト.csv>`
-  * ダウンロードできます (手動更新: 2025-06-15) :download:`Excel形式 放送回リスト </_static/セキュリティのアレ_放送回リスト.xlsx>`
+  * ダウンロードできます (自動更新) :download:`CSV形式 BOMなしUTF-8） </_static/セキュリティのアレ_放送回リスト_自動更新.csv>`
+  * ダウンロードできます (手動更新: 2025-06-15) :download:`Excel形式 </_static/セキュリティのアレ_放送回リスト_手動更新.xlsx>`
 
 .. 自動生成箇所 ここから
 .. list-table:: 放送回一覧

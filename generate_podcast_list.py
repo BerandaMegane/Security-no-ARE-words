@@ -21,7 +21,7 @@ reStructuredText形式のテーブル（list-table形式）の文字列を生成
 放送回一覧ページ（reST形式, output_rest_path）に書き込む。
 """
 
-input_csv_path = "./source/_static/セキュリティのアレ_放送回リスト.csv"
+input_csv_path = "./source/_static/セキュリティのアレ_放送回リスト_自動更新.csv"
 template_rest_path = "./source/podcasts/podcast_list.rst.template"
 output_rest_path = "./source/podcasts/podcast_list.rst"
 
