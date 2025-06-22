@@ -31,6 +31,14 @@
 .. image:: ./static/アレステッカー_20240407時点.jpg
   :alt: 5枚3種類のアレステッカー
 
+.. rubric:: アレステッカーをキレイにカットするツール
+
+.. raw:: html
+
+  <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日の <a href="https://twitter.com/hashtag/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%B3%E3%83%AC?src=hash&amp;ref_src=twsrc%5Etfw">#セキュリティのコレ</a> の最初の方に話があったステッカーのカット、私はコレで綺麗にカットできました。<a href="https://t.co/Yd0tOWVhoH">https://t.co/Yd0tOWVhoH</a><a href="https://t.co/HuApeZScwO">https://t.co/HuApeZScwO</a><a href="https://twitter.com/hashtag/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%82%A2%E3%83%AC?src=hash&amp;ref_src=twsrc%5Etfw">#セキュリティのアレ</a> <a href="https://twitter.com/hashtag/%E3%82%A2%E3%83%AC%E5%8B%A2?src=hash&amp;ref_src=twsrc%5Etfw">#アレ勢</a> <a href="https://twitter.com/hashtag/%E3%82%B3%E3%83%AC%E5%8B%A2?src=hash&amp;ref_src=twsrc%5Etfw">#コレ勢</a> <a href="https://t.co/bS9jxXplZR">pic.twitter.com/bS9jxXplZR</a></p>&mdash; hashiken (@hashiken_com) <a href="https://twitter.com/hashiken_com/status/1934989607382462536?ref_src=twsrc%5Etfw">June 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+.. raw:: html
+
 .. rubric:: 関連ワード
 
 * :doc:`お便りのコーナー`
