@@ -32,6 +32,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#269
+     - `第269回 ビジネスにも役立つポッドキャストやで！スペシャル！ <https://www.tsujileaks.com/?p=2056>`_ 
+     - 2025-08-04T20:00+09:00
    * - S3#268
      - `第268回 ホーッホッホッホ！スペシャル！ <https://www.tsujileaks.com/?p=2052>`_ 
      - 2025-07-29T08:00+09:00
@@ -1059,6 +1062,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第269回 ビジネスにも役立つポッドキャストやで！スペシャル！: https://www.tsujileaks.com/?p=2056
+.. _S3#269: https://www.tsujileaks.com/?p=2056
 .. _第268回 ホーッホッホッホ！スペシャル！: https://www.tsujileaks.com/?p=2052
 .. _S3#268: https://www.tsujileaks.com/?p=2052
 .. _第267回 ポジティブな気持ちは即伝えよう！スペシャル！: https://www.tsujileaks.com/?p=2048
