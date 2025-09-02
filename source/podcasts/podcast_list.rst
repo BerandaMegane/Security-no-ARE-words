@@ -32,6 +32,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#273
+     - `第273回 収録参加したいって方いますか！？スペシャル！ <https://www.tsujileaks.com/?p=2081>`_ 
+     - 2025-09-02T20:00+09:00
    * - S3#272
      - `第272回 ¯\_(ツ)_/¯！スペシャル！ <https://www.tsujileaks.com/?p=2076>`_ 
      - 2025-08-25T20:00+09:00
@@ -1071,6 +1074,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第273回 収録参加したいって方いますか！？スペシャル！: https://www.tsujileaks.com/?p=2081
+.. _S3#273: https://www.tsujileaks.com/?p=2081
 .. _第272回 ¯\_(ツ)_/¯！スペシャル！: https://www.tsujileaks.com/?p=2076
 .. _S3#272: https://www.tsujileaks.com/?p=2076
 .. _第271回 アレと生きる！スペシャル！: https://www.tsujileaks.com/?p=2070
