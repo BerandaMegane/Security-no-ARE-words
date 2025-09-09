@@ -32,6 +32,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#274
+     - `第274回 歯抜け！スペシャル！ <https://www.tsujileaks.com/?p=2087>`_ 
+     - 2025-09-09T20:00+09:00
    * - S3#273
      - `第273回 収録参加したいって方いますか！？スペシャル！ <https://www.tsujileaks.com/?p=2081>`_ 
      - 2025-09-02T20:00+09:00
@@ -1074,6 +1077,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第274回 歯抜け！スペシャル！: https://www.tsujileaks.com/?p=2087
+.. _S3#274: https://www.tsujileaks.com/?p=2087
 .. _第273回 収録参加したいって方いますか！？スペシャル！: https://www.tsujileaks.com/?p=2081
 .. _S3#273: https://www.tsujileaks.com/?p=2081
 .. _第272回 ¯\_(ツ)_/¯！スペシャル！: https://www.tsujileaks.com/?p=2076
