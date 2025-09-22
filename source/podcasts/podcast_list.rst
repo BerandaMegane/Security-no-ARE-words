@@ -32,6 +32,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#276
+     - `第276回 2つが色々繋がってるで！スペシャル！ <https://www.tsujileaks.com/?p=2098>`_ 
+     - 2025-09-22T12:00+09:00
    * - S3#275
      - `第275回 いっちゃんええやつ！スペシャル！ <https://www.tsujileaks.com/?p=2091>`_ 
      - 2025-09-15T20:00+09:00
@@ -1080,6 +1083,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第276回 2つが色々繋がってるで！スペシャル！: https://www.tsujileaks.com/?p=2098
+.. _S3#276: https://www.tsujileaks.com/?p=2098
 .. _第275回 いっちゃんええやつ！スペシャル！: https://www.tsujileaks.com/?p=2091
 .. _S3#275: https://www.tsujileaks.com/?p=2091
 .. _第274回 歯抜け！スペシャル！: https://www.tsujileaks.com/?p=2087
