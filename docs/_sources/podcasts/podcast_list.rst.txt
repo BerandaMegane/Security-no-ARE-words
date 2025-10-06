@@ -32,6 +32,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#278
+     - `第278回 いつも励みをありがとう！スペシャル！ <https://www.tsujileaks.com/?p=2112>`_ 
+     - 2025-10-06T19:49+09:00
    * - S3#277
      - `第277回 59番目！スペシャル！ <https://www.tsujileaks.com/?p=2107>`_ 
      - 2025-09-29T20:00+09:00
@@ -1086,6 +1089,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第278回 いつも励みをありがとう！スペシャル！: https://www.tsujileaks.com/?p=2112
+.. _S3#278: https://www.tsujileaks.com/?p=2112
 .. _第277回 59番目！スペシャル！: https://www.tsujileaks.com/?p=2107
 .. _S3#277: https://www.tsujileaks.com/?p=2107
 .. _第276回 2つが色々繋がってるで！スペシャル！: https://www.tsujileaks.com/?p=2098
