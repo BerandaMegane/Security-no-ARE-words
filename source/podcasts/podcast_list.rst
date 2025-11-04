@@ -32,6 +32,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#281
+     - `第281回 一緒に居なくても仲良しだ！スペシャル！ <https://www.tsujileaks.com/?p=2127>`_ 
+     - 2025-11-04T20:00+09:00
    * - S3#280
      - `第280回 色々把握しておこう！スペシャル！ <https://www.tsujileaks.com/?p=2122>`_ 
      - 2025-10-27T20:00+09:00
@@ -1095,6 +1098,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第281回 一緒に居なくても仲良しだ！スペシャル！: https://www.tsujileaks.com/?p=2127
+.. _S3#281: https://www.tsujileaks.com/?p=2127
 .. _第280回 色々把握しておこう！スペシャル！: https://www.tsujileaks.com/?p=2122
 .. _S3#280: https://www.tsujileaks.com/?p=2122
 .. _第279回 安全だけではなく安心を！スペシャル！: https://www.tsujileaks.com/?p=2117
