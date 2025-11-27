@@ -22,7 +22,7 @@
 
   * 自動更新する Python スクリプトは `GitHub リポジトリ <https://github.com/BerandaMegane/Security-no-ARE-words/blob/main/generate_podcast_list.py>`_ で公開しています
   * ダウンロードできます (自動更新) :download:`CSV形式 BOMなしUTF-8） </_static/セキュリティのアレ_放送回リスト_自動更新.csv>`
-  * ダウンロードできます (手動更新: 2025-06-15) :download:`Excel形式 </_static/セキュリティのアレ_放送回リスト_手動更新.xlsx>`
+  * ダウンロードできます (手動更新: 2025-11-27) :download:`Excel形式 </_static/セキュリティのアレ_放送回リスト_手動更新.xlsx>`
 
 .. 自動生成箇所 ここから
 .. list-table:: 放送回一覧
