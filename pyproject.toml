@@ -1,0 +1,14 @@
+[project]
+name = "security-no-are-words"
+version = "0.1.0"
+description = "セキュリティのアレまとめ"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "pydata-sphinx-theme>=0.16.1",
+    "sphinx>=8.2.3",
+    "sphinx-sitemap>=2.9.0",
+    "sphinxext-opengraph>=0.13.0",
+    "urllib3>=2.5.0",
+]
