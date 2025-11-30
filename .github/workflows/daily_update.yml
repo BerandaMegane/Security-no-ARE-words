@@ -1,17 +1,24 @@
 name: Daily Podcast Update
 
 on:
+  # 動作確認しやすいように手動起動をサポート
   workflow_dispatch:
   schedule:
     - cron: '0 */12 * * *'  # 12時間ごとに実行 
 
-permissions:
-  contents: write
+# ワークフローレベルでパーミッションをすべて無効化
+permissions: {}
+
+# デフォルトシェルでパイプエラーを有効化
+defaults:
+  run:
+    shell: bash
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -27,6 +34,7 @@ jobs:
 
       - name: Run update script
         run: |
+          set -x
           # ポッドキャスト更新の検出
           result=$(python generate_podcast_list.py 2>&1 >/tmp/output.log)
           cat /tmp/output.log  # 標準出力をそのままログに流す
