@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#285
+     - `第285回 お客様は神様です！スペシャル！ <https://www.tsujileaks.com/?p=2152>`_ 
+     - 2025-12-15T20:00+09:00
    * - S3#284
      - `第284回 アレの名前がアレ！スペシャル！ <https://www.tsujileaks.com/?p=2146>`_ 
      - 2025-12-08T20:00+09:00
@@ -1108,6 +1111,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第285回 お客様は神様です！スペシャル！: https://www.tsujileaks.com/?p=2152
+.. _S3#285: https://www.tsujileaks.com/?p=2152
 .. _第284回 アレの名前がアレ！スペシャル！: https://www.tsujileaks.com/?p=2146
 .. _S3#284: https://www.tsujileaks.com/?p=2146
 .. _第283回 我々、手も動かしてるんやで！スペシャル！: https://www.tsujileaks.com/?p=2137
