@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#287
+     - `第287回 5点から10点は底上げされるんだ！スペシャル！ <https://www.tsujileaks.com/?p=2167>`_ 
+     - 2026-01-13T11:45+09:00
    * - S3#286
      - `第286回 尋常じゃないんだ！スペシャル！ <https://www.tsujileaks.com/?p=2162>`_ 
      - 2025-12-23T20:00+09:00
@@ -1114,6 +1117,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第287回 5点から10点は底上げされるんだ！スペシャル！: https://www.tsujileaks.com/?p=2167
+.. _S3#287: https://www.tsujileaks.com/?p=2167
 .. _第286回 尋常じゃないんだ！スペシャル！: https://www.tsujileaks.com/?p=2162
 .. _S3#286: https://www.tsujileaks.com/?p=2162
 .. _第285回 お客様は神様です！スペシャル！: https://www.tsujileaks.com/?p=2152
