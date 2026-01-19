@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#288
+     - `第288回 投げます。一石、！スペシャル！ <https://www.tsujileaks.com/?p=2172>`_ 
+     - 2026-01-19T20:00+09:00
    * - S3#287
      - `第287回 5点から10点は底上げされるんだ！スペシャル！ <https://www.tsujileaks.com/?p=2167>`_ 
      - 2026-01-13T11:45+09:00
@@ -1117,6 +1120,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第288回 投げます。一石、！スペシャル！: https://www.tsujileaks.com/?p=2172
+.. _S3#288: https://www.tsujileaks.com/?p=2172
 .. _第287回 5点から10点は底上げされるんだ！スペシャル！: https://www.tsujileaks.com/?p=2167
 .. _S3#287: https://www.tsujileaks.com/?p=2167
 .. _第286回 尋常じゃないんだ！スペシャル！: https://www.tsujileaks.com/?p=2162
