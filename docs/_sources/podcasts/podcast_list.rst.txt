@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#296
+     - `第296回 真相 in the Dark！スペシャル！ <https://www.tsujileaks.com/?p=2230>`_ 
+     - 2026-03-23T20:00+09:00
    * - S3#295
      - `第295回 隙間や乍らで！スペシャル！ <https://www.tsujileaks.com/?p=2225>`_ 
      - 2026-03-17T17:30+09:00
@@ -1141,6 +1144,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第296回 真相 in the Dark！スペシャル！: https://www.tsujileaks.com/?p=2230
+.. _S3#296: https://www.tsujileaks.com/?p=2230
 .. _第295回 隙間や乍らで！スペシャル！: https://www.tsujileaks.com/?p=2225
 .. _S3#295: https://www.tsujileaks.com/?p=2225
 .. _第294回 追いかけてなのか、お湯かけてなのか！スペシャル！: https://www.tsujileaks.com/?p=2217
