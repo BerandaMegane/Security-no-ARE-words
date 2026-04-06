@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#298
+     - `第298回 そこまでいったらもうサクラや！スペシャル！ <https://www.tsujileaks.com/?p=2244>`_ 
+     - 2026-04-06T20:00+09:00
    * - S3#297
      - `第297回 アレや！これや！スペシャル！ <https://www.tsujileaks.com/?p=2240>`_ 
      - 2026-03-30T20:00+09:00
@@ -1147,6 +1150,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第298回 そこまでいったらもうサクラや！スペシャル！: https://www.tsujileaks.com/?p=2244
+.. _S3#298: https://www.tsujileaks.com/?p=2244
 .. _第297回 アレや！これや！スペシャル！: https://www.tsujileaks.com/?p=2240
 .. _S3#297: https://www.tsujileaks.com/?p=2240
 .. _第296回 真相 in the Dark！スペシャル！: https://www.tsujileaks.com/?p=2230
