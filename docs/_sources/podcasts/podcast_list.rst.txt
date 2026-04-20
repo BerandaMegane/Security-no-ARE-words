@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#300
+     - `第300回 お誕生日おめでとうやで！スペシャル！ <https://www.tsujileaks.com/?p=2261>`_ 
+     - 2026-04-20T20:00+09:00
    * - S3#299
      - `第299回 これでモンダイナイン！スペシャル！ <https://www.tsujileaks.com/?p=2251>`_ 
      - 2026-04-14T15:56+09:00
@@ -1153,6 +1156,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第300回 お誕生日おめでとうやで！スペシャル！: https://www.tsujileaks.com/?p=2261
+.. _S3#300: https://www.tsujileaks.com/?p=2261
 .. _第299回 これでモンダイナイン！スペシャル！: https://www.tsujileaks.com/?p=2251
 .. _S3#299: https://www.tsujileaks.com/?p=2251
 .. _第298回 そこまでいったらもうサクラや！スペシャル！: https://www.tsujileaks.com/?p=2244
