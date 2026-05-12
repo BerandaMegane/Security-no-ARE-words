@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#303
+     - `第303回 スッスッスッスッ！スペシャル！ <https://www.tsujileaks.com/?p=2286>`_ 
+     - 2026-05-12T08:00+09:00
    * - S3#302
      - `第302回 No Reason アレ！スペシャル！ <https://www.tsujileaks.com/?p=2281>`_ 
      - 2026-05-04T20:20+09:00
@@ -1162,6 +1165,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第303回 スッスッスッスッ！スペシャル！: https://www.tsujileaks.com/?p=2286
+.. _S3#303: https://www.tsujileaks.com/?p=2286
 .. _第302回 No Reason アレ！スペシャル！: https://www.tsujileaks.com/?p=2281
 .. _S3#302: https://www.tsujileaks.com/?p=2281
 .. _第301回 次の100回始めました！スペシャル！: https://www.tsujileaks.com/?p=2269
