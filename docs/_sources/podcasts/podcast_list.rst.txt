@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#304
+     - `第304回 Tomorrow Never Knows！スペシャル！ <https://www.tsujileaks.com/?p=2292>`_ 
+     - 2026-05-18T20:00+09:00
    * - S3#303
      - `第303回 スッスッスッスッ！スペシャル！ <https://www.tsujileaks.com/?p=2286>`_ 
      - 2026-05-12T08:00+09:00
@@ -1165,6 +1168,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第304回 Tomorrow Never Knows！スペシャル！: https://www.tsujileaks.com/?p=2292
+.. _S3#304: https://www.tsujileaks.com/?p=2292
 .. _第303回 スッスッスッスッ！スペシャル！: https://www.tsujileaks.com/?p=2286
 .. _S3#303: https://www.tsujileaks.com/?p=2286
 .. _第302回 No Reason アレ！スペシャル！: https://www.tsujileaks.com/?p=2281
