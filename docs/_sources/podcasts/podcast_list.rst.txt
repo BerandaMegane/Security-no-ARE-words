@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#305
+     - `第305回 間がワルいとね！スペシャル！ <https://www.tsujileaks.com/?p=2299>`_ 
+     - 2026-06-01T20:00+09:00
    * - S3#304
      - `第304回 Tomorrow Never Knows！スペシャル！ <https://www.tsujileaks.com/?p=2292>`_ 
      - 2026-05-18T20:00+09:00
@@ -1168,6 +1171,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第305回 間がワルいとね！スペシャル！: https://www.tsujileaks.com/?p=2299
+.. _S3#305: https://www.tsujileaks.com/?p=2299
 .. _第304回 Tomorrow Never Knows！スペシャル！: https://www.tsujileaks.com/?p=2292
 .. _S3#304: https://www.tsujileaks.com/?p=2292
 .. _第303回 スッスッスッスッ！スペシャル！: https://www.tsujileaks.com/?p=2286
