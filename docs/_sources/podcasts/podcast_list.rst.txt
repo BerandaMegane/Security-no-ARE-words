@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#307
+     - `第307回 Bleedがklue！スペシャル！ <https://www.tsujileaks.com/?p=2313>`_ 
+     - 2026-06-23T20:00+09:00
    * - S3#306
      - `第306回 落としていたとはつゆ知らず！スペシャル！ <https://www.tsujileaks.com/?p=2306>`_ 
      - 2026-06-08T20:00+09:00
@@ -1174,6 +1177,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第307回 Bleedがklue！スペシャル！: https://www.tsujileaks.com/?p=2313
+.. _S3#307: https://www.tsujileaks.com/?p=2313
 .. _第306回 落としていたとはつゆ知らず！スペシャル！: https://www.tsujileaks.com/?p=2306
 .. _S3#306: https://www.tsujileaks.com/?p=2306
 .. _第305回 間がワルいとね！スペシャル！: https://www.tsujileaks.com/?p=2299
