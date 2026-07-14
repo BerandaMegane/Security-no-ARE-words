@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#309
+     - `第309回 これはボクも聴くのが楽しみだ！スペシャル！ <https://www.tsujileaks.com/?p=2323>`_ 
+     - 2026-07-14T20:00+09:00
    * - S3#308
      - `第308回 また過去から来てました！スペシャル！ <https://www.tsujileaks.com/?p=2318>`_ 
      - 2026-06-29T20:00+09:00
@@ -1180,6 +1183,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第309回 これはボクも聴くのが楽しみだ！スペシャル！: https://www.tsujileaks.com/?p=2323
+.. _S3#309: https://www.tsujileaks.com/?p=2323
 .. _第308回 また過去から来てました！スペシャル！: https://www.tsujileaks.com/?p=2318
 .. _S3#308: https://www.tsujileaks.com/?p=2318
 .. _第307回 Bleedがklue！スペシャル！: https://www.tsujileaks.com/?p=2313
