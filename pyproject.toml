@@ -37,5 +37,5 @@ dependencies = [
     "sphinxcontrib-serializinghtml==2.0.0",
     "sphinxext-opengraph==0.13.0",
     "typing-extensions==4.15.0",
-    "urllib3==2.5.0",
+    "urllib3==2.7.0",
 ]
