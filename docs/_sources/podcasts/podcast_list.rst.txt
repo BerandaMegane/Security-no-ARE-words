@@ -33,6 +33,12 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#311
+     - `第311回 外の影響範囲も考えなあかんなぁ！スペシャル！ <https://www.tsujileaks.com/?p=2336>`_ 
+     - 2026-07-27T20:00+09:00
+   * - S3#310
+     - `第310回 おまえんち踏み台サービスで！スペシャル！ <https://www.tsujileaks.com/?p=2331>`_ 
+     - 2026-07-20T20:00+09:00
    * - S3#309
      - `第309回 これはボクも聴くのが楽しみだ！スペシャル！ <https://www.tsujileaks.com/?p=2323>`_ 
      - 2026-07-14T20:00+09:00
@@ -1183,6 +1189,10 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第311回 外の影響範囲も考えなあかんなぁ！スペシャル！: https://www.tsujileaks.com/?p=2336
+.. _S3#311: https://www.tsujileaks.com/?p=2336
+.. _第310回 おまえんち踏み台サービスで！スペシャル！: https://www.tsujileaks.com/?p=2331
+.. _S3#310: https://www.tsujileaks.com/?p=2331
 .. _第309回 これはボクも聴くのが楽しみだ！スペシャル！: https://www.tsujileaks.com/?p=2323
 .. _S3#309: https://www.tsujileaks.com/?p=2323
 .. _第308回 また過去から来てました！スペシャル！: https://www.tsujileaks.com/?p=2318
