@@ -17,6 +17,13 @@ Sphinx を使って HTML ドキュメントを生成し、GitHub Pages で公開
 - Sphinx は Python 製のドキュメント生成ツールです
 - 記事は reST 記法（reStrictiredText 記法）で記述します
 
+## uv インストール
+
+```
+# Linux
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
 ## インストール
 Python については省略します。
 

@@ -1,8 +1,10 @@
+#!/usr/bin/env bash
+
 # 仮想環境の構築
 uv venv
 # ライブラリのインストール
-uv add -r requirements.txt
+uv sync
 # 仮想環境のアクティベート
-.\venv\Scripts\Activate.ps1
+source venv/bin/activate
 # Sphinx ビルド（docsディレクトリに生成）
-.\make.bat html
+make html
