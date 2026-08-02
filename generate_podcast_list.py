@@ -131,38 +131,42 @@ def fetch_podcast_info(are_url):
 
     response = requests.get(are_url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    posts = soup.find_all('div', class_="post")
-    post = posts[0]  # 最初のポストを取得
-
-    # 日付のタイムゾーン
-    JST = datetime.timezone(datetime.timedelta(hours=9), "JST")
+    # 記事のポストを取得
+    posts = soup.find_all('article', class_="post")
+    post = posts[0]
 
     # タイトル title
-    storytitle = post.find("h2", class_="storytitle")
-    title = storytitle.getText()
+    # <h1 class="entry-title">第311回 外の影響範囲も考えなあかんなぁ！スペシャル！</h1>
+    title_elment = post.find("h1", class_="entry-title")
+    title = title_elment.getText()
     
     # 放送回 num
     num = int(title.split("回")[0][1:])
 
+    # 日付のタイムゾーン
+    JST = datetime.timezone(datetime.timedelta(hours=9), "JST")
+
     # 公開日 published_datetime
-    published = post.find("b", class_="published")["title"]
+    # <time class="entry-date published" datetime="2026-07-27T20:00:22+09:00">2026年7月27日</time>
+    published_element = post.find("time", class_="entry-date published")
     try:
-        published = datetime.datetime.fromisoformat(published)
+        published = datetime.datetime.fromisoformat(published_element["datetime"])
     except:
         published = datetime.datetime(1900, 1, 1, tzinfo=JST)
     
     # 収録日 recorded_date
-    try:
-        pattern = r'(\d{4})年(\d{2})月(\d{2})日'
-        match_text = post.find("p", string=re.compile(pattern))
-        match = re.search(pattern, match_text.getText())
-        if match:
-            year = int(match.group(1))
-            month = int(match.group(2))
-            day = int(match.group(3))
-            recorded = datetime.date(year, month, day)
-    except:
-        recorded = datetime.date(1900, 1, 1)
+    # try:
+    #     pattern = r'(\d{4})年(\d{2})月(\d{2})日'
+    #     match_text = post.find("p", string=re.compile(pattern))
+    #     match = re.search(pattern, match_text.getText())
+    #     if match:
+    #         year = int(match.group(1))
+    #         month = int(match.group(2))
+    #         day = int(match.group(3))
+    #         recorded = datetime.date(year, month, day)
+    # except:
+    #     recorded = datetime.date(1900, 1, 1)
+    recorded = datetime.date(1900, 1, 1)
     
     # ポッドキャスト音声 audio_url
     try:        
