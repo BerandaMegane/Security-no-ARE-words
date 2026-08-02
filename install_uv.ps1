@@ -3,6 +3,6 @@ uv venv
 # ライブラリのインストール
 uv add -r requirements.txt
 # 仮想環境のアクティベート
-.\venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate.ps1
 # Sphinx ビルド（docsディレクトリに生成）
 .\make.bat html

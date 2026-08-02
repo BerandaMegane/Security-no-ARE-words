@@ -5,6 +5,6 @@ uv venv
 # ライブラリのインストール
 uv sync
 # 仮想環境のアクティベート
-source venv/bin/activate
+source .venv/bin/activate
 # Sphinx ビルド（docsディレクトリに生成）
 make html
