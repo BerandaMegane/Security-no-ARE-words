@@ -17,7 +17,6 @@ else
 
     # GitHub Push => GitHub Action で自動デプロイ
     git add ./source
-    git add ./docs
     git commit -m "auto commit"
     git push origin main
 fi

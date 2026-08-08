@@ -1,13 +1,21 @@
 name: Daily Podcast Update
 
 on:
-  # 動作確認しやすいように手動起動をサポート
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     - cron: '0 */12 * * *'  # 12時間ごとに実行 
 
-# ワークフローレベルでパーミッションをすべて無効化
-permissions: {}
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'pages'
+  cancel-in-progress: true
 
 # デフォルトシェルでパイプエラーを有効化
 defaults:
@@ -15,24 +23,22 @@ defaults:
     shell: bash
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'  # 例: '3.10'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
 
-      - name: Run update script
+      - name: Check for podcast updates
         run: |
           set -x
           # ポッドキャスト更新の検出
@@ -41,19 +47,36 @@ jobs:
           count=$(cat /tmp/output.log | tail -n 1)  # 最後の行を取得（数字の出力）
           echo "Podcast count: $count"
 
-          if [ "$count" -eq 0 ]; then
-              echo "新規ポッドキャストはありません"
-          else
+          if [ "$count" -ne 0 ]; then
               echo "新規ポッドキャストが見つかりました"
-              ( make html ) || echo "make html failed but continuing"
-
               git config user.name "github-actions[bot]"
               git config user.email "github-actions[bot]@users.noreply.github.com"
 
               git add ./source
-              git add ./docs
-              git commit -m "auto commit"
+              git commit -m "auto commit: update podcast list"
               git push origin main
+          else
+              echo "新規ポッドキャストはありません"
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build HTML
+        run: |
+          make html
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
