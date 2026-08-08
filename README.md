@@ -111,6 +111,12 @@ CSVファイル [セキュリティのアレ_放送回リスト.csv](./source/_s
 
 ### ライブラリアップデート
 ```
+# uv インストール済みの場合
+uv upgrade
+uv sync
+uv pip freeze > requirements.txt
+
+# Python のみの場合
 pip-review --auto
 pip freeze > requirements.txt
 ```
