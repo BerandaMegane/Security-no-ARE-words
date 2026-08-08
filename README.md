@@ -17,22 +17,65 @@ Sphinx を使って HTML ドキュメントを生成し、GitHub Pages で公開
 - Sphinx は Python 製のドキュメント生成ツールです
 - 記事は reST 記法（reStrictiredText 記法）で記述します
 
-## uv インストール
+## Python, uv インストール
+Python のインストールについては省略します。
+
+uv 参考: https://docs.astral.sh/uv/getting-started/installation/
 
 ```
+# Windows
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
 # Linux
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-## インストール
-Python については省略します。
+## 依存ライブラリのインストール
 
+### Windows (uv インストール済みの場合)
+```powershell
+# venv 構築・ライブラリのインストール
+uv sync
+# 仮想環境のアクティベート
+.\.venv\Scripts\Activate.ps1
+# Sphinx ビルド（docsディレクトリに生成）
+.\make.bat html
 ```
-# Windows
-.\install.ps1
 
-# Linux
-./install.sh
+### Windows (Python のみの場合)
+```powershell
+# 仮想環境の構築
+python -m venv .venv
+# 仮想環境のアクティベート
+.\.venv\Scripts\Activate.ps1
+# ライブラリのインストール
+pip install -r requirements.txt
+# Sphinx ビルド（docsディレクトリに生成）
+.\make.bat html
+```
+
+### Linux (uv インストール済みの場合)
+```bash
+# venv 構築・ライブラリのインストール
+uv sync
+# 仮想環境のアクティベート
+source .venv/bin/activate
+# Sphinx ビルド（docsディレクトリに生成）
+make html
+```
+
+### Linux (Python のみの場合)
+```bash
+#!/usr/bin/env bash
+
+# 仮想環境の構築
+python -m venv .venv
+# 仮想環境のアクティベート
+source .venv/bin/activate
+# ライブラリのインストール
+pip install -r requirements.txt
+# Sphinx ビルド（docsディレクトリに生成）
+make html
 ```
 
 ## ドキュメント生成（ビルド）
