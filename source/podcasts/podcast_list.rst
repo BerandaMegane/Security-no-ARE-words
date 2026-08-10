@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#313
+     - `第313回 「ランダム」って入力できへんねん！スペシャル！ <https://www.tsujileaks.com/?p=2351>`_ 
+     - 2026-08-10T20:00+09:00
    * - S3#312
      - `第312回 28巻247話！スペシャル！ <https://www.tsujileaks.com/?p=2343>`_ 
      - 2026-08-03T20:00+09:00
@@ -1192,6 +1195,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第313回 「ランダム」って入力できへんねん！スペシャル！: https://www.tsujileaks.com/?p=2351
+.. _S3#313: https://www.tsujileaks.com/?p=2351
 .. _第312回 28巻247話！スペシャル！: https://www.tsujileaks.com/?p=2343
 .. _S3#312: https://www.tsujileaks.com/?p=2343
 .. _第311回 外の影響範囲も考えなあかんなぁ！スペシャル！: https://www.tsujileaks.com/?p=2336
