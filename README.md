@@ -85,11 +85,11 @@ make html
 次のコマンドを実行します。
 ```
 # Windows
-.\venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate.ps1
 .\make.bat html
 
 # Linux
-source venv/bin/activate
+source .venv/bin/activate
 make html
 ```
 
@@ -100,7 +100,7 @@ http://localhost:8000 にアクセスするとドキュメントを閲覧でき�
 
 ```
 # Windows
-.\venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate.ps1
 .\make.bat preview
 ```
 
@@ -112,9 +112,9 @@ CSVファイル [セキュリティのアレ_放送回リスト.csv](./source/_s
 ### ライブラリアップデート
 ```
 # uv インストール済みの場合
-uv upgrade
+uv lock --upgrade
 uv sync
-uv pip freeze > requirements.txt
+uv export -o requirements.txt --no-hashes
 
 # Python のみの場合
 pip-review --auto
