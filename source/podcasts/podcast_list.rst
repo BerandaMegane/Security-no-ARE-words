@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#315
+     - `第315回 みんなのトラブルシュートを教えて！スペシャル！ <https://www.tsujileaks.com/?p=2364>`_ 
+     - 2026-08-24T20:00+09:00
    * - S3#314
      - `第314回 セキュリティのアレ f！スペシャル！ <https://www.tsujileaks.com/?p=2358>`_ 
      - 2026-08-17T20:00+09:00
@@ -1198,6 +1201,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第315回 みんなのトラブルシュートを教えて！スペシャル！: https://www.tsujileaks.com/?p=2364
+.. _S3#315: https://www.tsujileaks.com/?p=2364
 .. _第314回 セキュリティのアレ f！スペシャル！: https://www.tsujileaks.com/?p=2358
 .. _S3#314: https://www.tsujileaks.com/?p=2358
 .. _第313回 「ランダム」って入力できへんねん！スペシャル！: https://www.tsujileaks.com/?p=2351
