@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#316
+     - `第316回 励まして！褒めて！スペシャル！ <https://www.tsujileaks.com/?p=2368>`_ 
+     - 2026-09-07T20:00+09:00
    * - S3#315
      - `第315回 みんなのトラブルシュートを教えて！スペシャル！ <https://www.tsujileaks.com/?p=2364>`_ 
      - 2026-08-24T20:00+09:00
@@ -1201,6 +1204,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第316回 励まして！褒めて！スペシャル！: https://www.tsujileaks.com/?p=2368
+.. _S3#316: https://www.tsujileaks.com/?p=2368
 .. _第315回 みんなのトラブルシュートを教えて！スペシャル！: https://www.tsujileaks.com/?p=2364
 .. _S3#315: https://www.tsujileaks.com/?p=2364
 .. _第314回 セキュリティのアレ f！スペシャル！: https://www.tsujileaks.com/?p=2358
