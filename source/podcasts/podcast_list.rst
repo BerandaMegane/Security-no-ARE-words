@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#318
+     - `第318回 サイバーやねん！スペシャル！ <https://www.tsujileaks.com/?p=2377>`_ 
+     - 1900-01-01T00:00+09:00
    * - S3#317
      - `第317回 あがるよねぇ～！スペシャル！ <https://www.tsujileaks.com/?p=2373>`_ 
      - 2026-09-14T20:00+09:00
@@ -1207,6 +1210,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第318回 サイバーやねん！スペシャル！: https://www.tsujileaks.com/?p=2377
+.. _S3#318: https://www.tsujileaks.com/?p=2377
 .. _第317回 あがるよねぇ～！スペシャル！: https://www.tsujileaks.com/?p=2373
 .. _S3#317: https://www.tsujileaks.com/?p=2373
 .. _第316回 励まして！褒めて！スペシャル！: https://www.tsujileaks.com/?p=2368
