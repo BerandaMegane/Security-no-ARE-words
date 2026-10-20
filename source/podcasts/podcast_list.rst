@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#321
+     - `第321回 煙に突っ込まないで行くぜ！スペシャル！ <https://www.tsujileaks.com/?p=2394>`_ 
+     - 2026-10-20T20:00+09:00
    * - S3#320
      - `第320回 賑やかし少なめ！スペシャル！ <https://www.tsujileaks.com/?p=2387>`_ 
      - 2026-10-12T20:00+09:00
@@ -1216,6 +1219,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第321回 煙に突っ込まないで行くぜ！スペシャル！: https://www.tsujileaks.com/?p=2394
+.. _S3#321: https://www.tsujileaks.com/?p=2394
 .. _第320回 賑やかし少なめ！スペシャル！: https://www.tsujileaks.com/?p=2387
 .. _S3#320: https://www.tsujileaks.com/?p=2387
 .. _第319回 止まない雨はないじゃない！明けない夜もないじゃない！スペシャル！: https://www.tsujileaks.com/?p=2382
