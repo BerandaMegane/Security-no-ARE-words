@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#323
+     - `第323回 やんす！やんす！！スペシャル！ <https://www.tsujileaks.com/?p=2408>`_ 
+     - 2026-11-03T12:00+09:00
    * - S3#322
      - `第322回 ゴジラ型ってあったよね！スペシャル！ <https://www.tsujileaks.com/?p=2400>`_ 
      - 2026-10-26T20:00+09:00
@@ -1222,6 +1225,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第323回 やんす！やんす！！スペシャル！: https://www.tsujileaks.com/?p=2408
+.. _S3#323: https://www.tsujileaks.com/?p=2408
 .. _第322回 ゴジラ型ってあったよね！スペシャル！: https://www.tsujileaks.com/?p=2400
 .. _S3#322: https://www.tsujileaks.com/?p=2400
 .. _第321回 煙に突っ込まないで行くぜ！スペシャル！: https://www.tsujileaks.com/?p=2394
