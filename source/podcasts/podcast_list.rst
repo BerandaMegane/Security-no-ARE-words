@@ -33,6 +33,9 @@
    * - ID
      - タイトル
      - 公開日
+   * - S3#324
+     - `第324回 為になるオススメ！スペシャル！ <https://www.tsujileaks.com/?p=2412>`_ 
+     - 1900-01-01T00:00+09:00
    * - S3#323
      - `第323回 やんす！やんす！！スペシャル！ <https://www.tsujileaks.com/?p=2408>`_ 
      - 2026-11-03T12:00+09:00
@@ -1225,6 +1228,8 @@
      - `第1回 タイトルも決まってないけどとりあえず始めましたスペシャル <https://www.tsujileaks.com/?p=10>`_ 
      - 2011-02-21T01:46+09:00
 
+.. _第324回 為になるオススメ！スペシャル！: https://www.tsujileaks.com/?p=2412
+.. _S3#324: https://www.tsujileaks.com/?p=2412
 .. _第323回 やんす！やんす！！スペシャル！: https://www.tsujileaks.com/?p=2408
 .. _S3#323: https://www.tsujileaks.com/?p=2408
 .. _第322回 ゴジラ型ってあったよね！スペシャル！: https://www.tsujileaks.com/?p=2400
